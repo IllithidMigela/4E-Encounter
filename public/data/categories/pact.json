@@ -1,0 +1,617 @@
+[
+  {
+    "id": "精类契约 Fey Pact",
+    "name": "精类契约",
+    "nameEn": "Fey Pact",
+    "category": "pact",
+    "tags": [
+      "魔剑士契约"
+    ],
+    "source": "HoFK",
+    "sourceText": "@@.indent\nThe lords of the Feywild grant power to mortals for a variety of reasons. Some do so out of a sense of twisted mirth, because they enjoy granting great power to those without the maturity or sense to use it wisely. Others court mortal champions who can protect the fey realms and hold back the rising tide of evil.\n@@\n!! 1级：精类契约奖励 Fey Pact Reward\n@@.indent\nAs a fey pact hexblade, you learn to channel your natural agility into your magical and physical attacks, enhancing their deadliness.\n\n''增益：''你在你的邪术师攻击威能和邪术师典范之道攻击威能的伤害骰上获得等同于你敏捷调整值的加值。5级时，此加值为2 + 你敏捷调整值；15级时，此加值为4 + 你敏捷调整值；25级时，此加值为6 + 你敏捷调整值。\n\n9级时，你以[[召唤邪术师盟友 Summon Warlock's Ally]]召唤的生物也在伤害骰上获得此加值\n@@\n!! 1级：精类契约之赐 Fey Pact Boon\n@@.indent\nThe lords of the Feywild practice magic that bends and twists the planes. In that realm, a step through a dense thicket can cover hundreds of miles as mortals reckon distances. With this boon, you transform into a being of wind and clouds, allowing you to leap through space.\n\n''增益：''你获得[[灵魂步伐 Soul Step]]威能\n@@\n!! 1级：精类契约武器 Fey Pact Weapon\n@@.indent\nThe blade of winter's mourning is a gift from the fey lords of winter, ice, and snow. It is made from a strange, blue metal that delivers lethal wounds. Because of its supernatural origin, it is lighter and easier to handle than a mundane weapon.\n\nThe blade reflects the elegant fighting style of the rakes and bravos who haunt wintry fey citadels. A rapier of living metal, the blade shifts and moves of its own accord to aid you in battle. It twists to parry attacks, and with its ability to hinder your enemy's counterattack, you can dart in, deliver an attack, and move away.\n\n当你获得此武器时，你同时获得在持用该武器时能使用的2个威能，[[冰刺击 Icy Skewer]]和[[穿刺碎片 Piercing Shard]]\n@@\n<div id=powercard>\n<div class=powercardborder>\n<div class=powercardatwill style=\"background-color: #D9941C\"><span class=powername>冬哀之刃 Blade of Winter's Mourning</span><span class=powerlvl>邪术师装备</span></div>\n<div class=powerexplains>This rapier seems to quiver and hum with its own power, its steel covered with a patina of frost.</div>\n<table class=details>\n  <tbody>\n  <tr>\n    <th>武器分类：</th>\n    <td>单手军用近战武器</td></tr>\n  <tr>\n    <th>武器组：</th>\n    <td>轻刃</td></tr>\n  <tr>\n    <th>擅长加值：</th>\n    <td>+3</td></tr>\n  <tr>\n    <th>伤害：</th>\n    <td>1d10</td></tr></tbody></table></div></div>\n\n{{冰刺击 Icy Skewer}}\n{{穿刺碎片 Piercing Shard}}\n!! 1级：精类契约武器 Fey Pact Weapon（Dragon #393）\n@@.indent\nYou have sought out the lady of the White Well and impressed her enough to earn her favor. She entrusts you with a charge: fight in her name and for her honor. How you acquit yourself in your quests will determine whether you can one day claim the ultimate prize.\n\nThe sword of the White Well was the noble blade used by the fey knight who fathered the lady. When he learned how he had been used by lolth, the knight hurled the weapon into the well and vowed to never fight again. Thus the weapon symbolizes the tragic circumstances of the lady's birth while also representing the gift of magic she bestows to champions who have the best chance at winning her heart.\n\nThe weapon possesses perfect balance and adjusts its length and weight to its wielder. While not as accurate as those weapons favored in the eladrin courts, it compensates by delivering devastating wounds wherever it strikes.\n\nOn gaining the sword, you also learn two spells to unlock its magical power. Moonfire blade transforms the weapon into radiant moonlight to help your strikes slip through armor and other defenses unobstructed. When enemies loom on all sides, you can use well of light to call forth the lady's power in a shining beacon.\n\n''增益：''你可选择此特性来替换通常的「精类契约武器」特性\n@@\n<div id=powercard>\n<div class=powercardborder>\n<div class=powercardatwill style=\"background-color: #D9941C\"><span class=powername>白井之剑 Sword of the White Well</span><span class=powerlvl>邪术师装备</span></div>\n<div class=powerexplains>The sword's slim, pale blade shines as if bathed in moonlight.</div>\n<table class=details>\n  <tbody>\n  <tr>\n    <th>武器分类：</th>\n    <td>单手军用近战武器</td></tr>\n  <tr>\n    <th>武器组：</th>\n    <td>重刃</td></tr>\n  <tr>\n    <th>擅长加值：</th>\n    <td>+2</td></tr>\n  <tr>\n    <th>伤害：</th>\n    <td>1d12</td></tr></tbody></table></div></div>\n\n{{月火之刃 Moonfire Blade}}\n{{光之源泉 Well of Light}}\n!! 7级：精类契约武器惩戒 Fey Pact Weapon Retribution\n@@.indent\nWhen an enemy dares attack you, you call on the fury of the winter court, manifesting it within your blade as you punish the offender.\n\n''增益：''你获得[[冬之惩戒脱离 Winter's Retributive Escape]]威能\n@@\n!! 7级：精类契约武器惩戒 Fey Pact Weapon Retribution（Dragon #393）\n@@.indent\nThe lady intercedes on your behalf when you come into danger and bathes you in her radiance to spare you from harm.\n\n''增益：''你可选择此特性来替换通常的「精类契约武器惩戒」特性\n\n你获得[[月光脱离 Moonlit Escape]]威能\n@@\n!! 9级：召唤邪术师盟友（精类契约） Summon Warlock's Ally (Fey)\n@@.indent\nA humanoid creature with woodlike flesh and bearing a heavy, gnarled club answers your summons to serve as a temporary bodyguard at the behest of your fey allies. The wood woad guardian is slow but tough, its thick hide allowing it to absorb attacks. It is a faithful protector, loyally taking attacks meant for you.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[菘蓝守卫 Wood Woad Guardian]]\n@@\n{{菘蓝守卫 Wood Woad Guardian}}\n!! 9级：召唤邪术师盟友（精类契约） Summon Warlock's Ally (Fey)（Dragon #393）\n@@.indent\nDuring the first years of the lady's exile, several handmaidens stayed with her, offering companionship and sympathy. As these handmaidens died, the lady sustained them in undeath and sometimes sends these servants to aid her champions.\n\nThe handmaiden appears in soft, white light. She is an achingly beautiful eladrin, yet strange in her bearing and manner. She is armed with a slim, white sword and ready to fight at your side.\n\n''增益：''你可选择此特性来替换通常的「召唤邪术师盟友」特性\n\n如果你有「白井之剑」，则你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[哀悼侍女 Mourning Handmaiden]]\n@@\n{{哀悼侍女 Mourning Handmaiden}}\n!! 11级：魔剑士行动（精类契约） Hexblade's Action (Fey)\n@@.indent\n''传说魔剑士典范之道特性''\n\nAs you enter the paragon tier, you are able to better access the magic of the fey through your pact. With practice, you learn to slide into the fey realm and travel a short distance, appearing elsewhere in the blink of an eye.\n\n''增益：''当你花费一个行动点进行额外动作时，在此额外动作之前或之后，你能以一个自由动作成为隐形并传送最多等同于你敏捷调整值的格数。你保持隐形直到你下一回合开始\n@@\n!! 11级：精类契约面貌 Fey Pact Aspect\n@@.indent\n''传说魔剑士典范之道特性''\n\nYour mastery of fey magic lends arcane credence to your lies and unmatched speed to your feet.\n\n''增益：''你在唬骗检定上获得+2加值，且在速度上获得+1加值\n@@\n!! 11级：精类契约诅咒 Fey Pact Curse\n@@.indent\n''传说魔剑士典范之道特性''\n\nYou call on the power of the Feywild, directing the verdant growth inherent in that realm to infest your enemy. Leaves and vines quickly take root in your foe, leaving it open to attack.\n@@\n{{碎甲诅咒 Curse of Shattered Armor}}\n!! 12级：精类契约祈祷 Fey Pact Invocation\n@@.indent\n''传说魔剑士典范之道特性''\n\nWith this spell, you appeal to the lords of the Feywild to aid you with good fortune in your battles—a sudden gust of wind knocks aside an arrow certain to hit you, or an enemy stumbles on a tree root before it can bring its axe crashing down upon you. However, the fey lords are fickle creatures. Just as they offer good fortune, their moods can suddenly change and curse you with ill luck.\n@@\n{{精类祈祷 Fey Invocation}}\n!! 16级：进阶精类契约之赐 Improved Fey Pact Boon\n@@.indent\n''传说魔剑士典范之道特性''\n\nYour initial understanding of your fey pact allowed you to move among the fabric of the planes, disappearing in one spot and appearing elsewhere in the blink of an eye. With experience, you now know how to draw more deeply on the Feywild's magic. When you teleport, the magic lingers, cloaking you in invisibility.\n\n''增益：''当你使用[[灵魂步伐 Soul Step]]时，你对你的敌人处于隐形直到你下一回合结束\n@@\n!! 20级：精类契约变形 Fey Pact Transformation\n@@.indent\n''传说魔剑士典范之道特性''\n\nYou draw the magic of the Feywild into yourself and use it to warp the world around you. By twisting the planes, you can teleport with a single step, while your flickering, misty image makes it difficult for foes to attack you. At your command, this magic swirls around you, wracking your foes' minds and leaving them blind to your presence.\n@@\n{{精类变形 Feywild Transformation}}\n!! 25级：高阶召唤邪术师盟友（精类契约） Greater Summon Warlock's Ally (Fey)\n@@.indent\nDrawn from the cold regions of the Feywild, a frostblight treant serves as an implacable guardian. The fey lords of the icy reaches command the treants to stand in long ranks amid the mundane trees of their forest realms, crushing invaders with their gnarled limbs and rooting them in place with blasts of cold and ice.\n\nAway from its icy home, a summoned frostblight treant has only a fraction of the power that it normally possesses. It freezes enemies in place with its icy roots, protects you with craggy limbs, and can draw the vitality out of your foes.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[枯霜树人守护者 Frostblight Treant Protector]]\n@@\n{{枯霜树人守护者 Frostblight Treant Protector}}\n!! 25级：高阶召唤邪术师盟友（精类契约） Greater Summon Warlock's Ally (Fey)（Dragon #393）\n@@.indent\nThe knight who fell to lolth's treachery so long ago lingers as a watchful and protective spirit over his daughter. Although the knight vowed never to bear arms and don armor after his disgrace, he safeguards his offspring from harm by using the Feywild's magic.\n\nThe lady's favor rewards you with a fragment of the knight's essence to fight at your side. The doomed knight unleashes all the grief brought on by his fall and withers your enemies' resolve to fight.\n\n''增益：''你可选择此特性来替换通常的「高阶召唤邪术师盟友」特性\n\n你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[幽灵守护者 Spectral Protector]]\n@@\n{{幽灵守护者 Spectral Protector}}",
+    "fields": {
+      "created": "20220823061315049",
+      "creator": "Leon",
+      "modified": "20221116061625299",
+      "modifier": "Leon",
+      "source": "HoFK"
+    },
+    "wiki": {
+      "transclusions": [
+        "冰刺击 Icy Skewer",
+        "穿刺碎片 Piercing Shard",
+        "月火之刃 Moonfire Blade",
+        "光之源泉 Well of Light",
+        "菘蓝守卫 Wood Woad Guardian",
+        "哀悼侍女 Mourning Handmaiden",
+        "碎甲诅咒 Curse of Shattered Armor",
+        "精类祈祷 Fey Invocation",
+        "精类变形 Feywild Transformation",
+        "枯霜树人守护者 Frostblight Treant Protector",
+        "幽灵守护者 Spectral Protector"
+      ],
+      "links": [
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "灵魂步伐 Soul Step"
+        },
+        {
+          "target": "冰刺击 Icy Skewer"
+        },
+        {
+          "target": "穿刺碎片 Piercing Shard"
+        },
+        {
+          "target": "冬之惩戒脱离 Winter's Retributive Escape"
+        },
+        {
+          "target": "月光脱离 Moonlit Escape"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "菘蓝守卫 Wood Woad Guardian"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "哀悼侍女 Mourning Handmaiden"
+        },
+        {
+          "target": "灵魂步伐 Soul Step"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "枯霜树人守护者 Frostblight Treant Protector"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "幽灵守护者 Spectral Protector"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：精类契约奖励 Fey Pact Reward",
+        "1级：精类契约之赐 Fey Pact Boon",
+        "1级：精类契约武器 Fey Pact Weapon",
+        "1级：精类契约武器 Fey Pact Weapon（Dragon #393）",
+        "7级：精类契约武器惩戒 Fey Pact Weapon Retribution",
+        "7级：精类契约武器惩戒 Fey Pact Weapon Retribution（Dragon #393）",
+        "9级：召唤邪术师盟友（精类契约） Summon Warlock's Ally (Fey)",
+        "9级：召唤邪术师盟友（精类契约） Summon Warlock's Ally (Fey)（Dragon #393）",
+        "11级：魔剑士行动（精类契约） Hexblade's Action (Fey)",
+        "11级：精类契约面貌 Fey Pact Aspect",
+        "11级：精类契约诅咒 Fey Pact Curse",
+        "12级：精类契约祈祷 Fey Pact Invocation",
+        "16级：进阶精类契约之赐 Improved Fey Pact Boon",
+        "20级：精类契约变形 Fey Pact Transformation",
+        "25级：高阶召唤邪术师盟友（精类契约） Greater Summon Warlock's Ally (Fey)",
+        "25级：高阶召唤邪术师盟友（精类契约） Greater Summon Warlock's Ally (Fey)（Dragon #393）"
+      ]
+    }
+  },
+  {
+    "id": "精类契约 Fey Pact (Binder)",
+    "name": "精类契约",
+    "nameEn": "Fey Pact (Binder)",
+    "category": "pact",
+    "tags": [
+      "缚影师契约"
+    ],
+    "source": "Dragon",
+    "sourceText": "@@.indent\nWhile many tales of the Feywild make it seem like a whimsical land of enchantment, anyone with planar experience knows that, as with the world of men, there is a dark side to the realm of the fey. Sinister fey creatures, agents of the Unseelie, lurk in the shadows of forests and wait for passing prey. The most powerful of these creatures extend their reach beyond their own realm, tempting and warping the minds of mortals.\n\nFey pact binders are a means by which dark fey extend their grasp outside of the Feywild. Binders who form pacts with these powerful Unseelie wield shadow-tainted arcane magic, reflecting the dark, corrupted natures of the fey creatures they serve. Many binders have learned not just how to coax knowledge out of these dark fey creatures, but how to become one of them; the unwary fey pact binder is often corrupted by the same malevolence that empowers his or her benefactor.\n\nAlternatively, your fey pact binder might be a dark fey that has taken on the guise of one of the friendlier races, openly using knowledge of Unseelie power while disguising his or her true nature. Such an elaborate disguise often requires the dark fey to actually transform into one of the mortal races; more than just a disguise, the mortal body is a prison in which the power of the dark fey resides.\n@@\n!! 1级：精类契约之赐（缚影师） Fey Pact Boon (Binder)\n@@.indent\nSome of the first tricks that a fey pact binder masters include how to cloud sight and how to create distractions out of pure shadow. The nature of the power that a binder draws from fey creatures often necessitates luring enemies in close before landing a final strike; a cautious binder learns techniques to keep these lured enemies from inflicting too much harm.\n\n''增益：''你获得[[障目之云 Cloud Sight]]和[[迷魂暗影 Fascinating Shadows]]威能\n@@\n!! 1级：精类契约遭遇威能 Fey Pact Encounter Power\n@@.indent\nNot all of the dark fey in the Feywild are large, powerful creatures. Among the most dangerous are swarms of tiny sprites that can set upon an unwary traveler, bringing a painful death by a thousand cuts. The binder can summon and command a whirlwind of these vicious sprites and watch as they rend the binder‘s enemies with tiny claws, teeth, and makeshift weapons tipped in painful poisons.\n@@\n{{精灵潜袭 Unseelie Sprites}}\n!! 3级：精类契约遭遇威能 Fey Pact Encounter Power\n@@.indent\nA binder that draws power from the fey quickly learns how to sow confusion among his or her enemies. With the proper application of shadow magic, the mind of a weak enemy can be bent so that they see friends as enemies and enemies as friends. However, those who have their minds clouded in this way often emerge from their shadowy haze to find that they have attacked their own allies.\n@@\n{{忠诚诱惑 Lure of Loyalty}}\n!! 4级：精类契约学识 Fey Pact Lore\n@@.indent\nAs a result of an ongoing association with a powerful fey creature, the binder learns to weave permanent wards over his or her own body to fend off attacks. Similarly, the binder's mind is so accustomed to the mind-clouding effects of dark fey magic that it becomes inured to such effects.\n\n''增益：''你在AC和意志上获得+1加值\n@@\n!! 7级：精类契约遭遇威能 Fey Pact Encounter Power\n@@.indent\nThough many might dismiss tales of men being enchanted by a fey song or by the whispers of a dryad, there is one warning from those tales that all travelers in the Feywild know: never let a creature touch you, for that is the surest way for a capricious fey to make you its slave. The binder masters the magic that makes this possible, and by laying a hand on a foe that gets too close, a warlock can make that enemy into a slave for a short time.\n@@\n{{控制之触 Touch of Command}}\n!! 9级：缚影师盟友（精类契约） Binder's Ally (Fey)\n@@.indent\nA powerful Unseelie patron might be convinced to loan a binder one of its retainers. Among the most common servants of the dark fey are creatures known as satyrs of the night. These satyrs were once just like their Feywild brethren—jovial, carefree, and tricksy. But these satyrs were seduced by the shadowy power of the binder's fey patron and were slowly corrupted into twisted, cruel versions of their former selves.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[夜魔 Satyr of the Night]]\n@@\n{{夜魔 Satyr of the Night}}\n!! 11级：缚影师行动（精类契约） Binder's Action (Fey)\n@@.indent\n''缚影大师典范之道特性''\n\nShadow magic infuses the arcane power that fuels your spells, seeping through from your dark patron's own corruption. When you exert yourself, your ability to wield that shadow magic clouds the mind of your enemy.\n\n''增益：''当你花费一个行动点进行额外攻击时，你以此攻击命中的一个敌人晕眩直到你下一回合结束。\n@@\n!! 11级：缚影师恩惠（精类契约） Binder's Favor (Fey)\n@@.indent\n''缚影大师典范之道特性''\n\nWhenever you draw upon the corrupted magic of your Unseelie patron, shadows now seem to form over the eyes of those whom you strike.\n\n''增益：''当你以[[迷魂暗影 Fascinating Shadows]]命中一个敌人时，你的盟友对该敌人具有隐蔽直到你下一回合结束\n@@\n!! 11级：精类契约遭遇威能 Fey Pact Encounter Power\n@@.indent\n''缚影大师典范之道特性''\n\nIn the deepest, blackest hearts of Feywild forests, there grows a plant. This plant exudes a poison that fills the minds of living beings with terror. You have wheedled the knowledge of this plant out of the dark fey, and can create a facsimile of its vines out of pure shadow.\n@@\n{{梦魇毒藤 Nightmare Vines}}\n!! 13级：精类契约遭遇威能 Fey Pact Encounter Power\n@@.indent\nThose who live in cities in the mortal realm, far from fey crossings or forests with a strong fey presence, rarely believe the stories of strong-willed men lured into danger by a dryad's sweet song. You have drawn the knowledge of such magic out of your fey patron, learning to combine that seductive song with other spells. You lure your enemies close to you, then vanish and flit away, leaving them grouped together and vulnerable to your allies' attacks.\n@@\n{{神行呼叫 Fleeting Call}}\n!! 16级：缚影师之赐（精类契约） Binder's Boon (Fey)\n@@.indent\n''缚影大师典范之道特性''\n\nYour ability to manipulate the will of your enemies does more than blind them to the threat you pose; it muddles their senses to the point that they have a hard time putting up a defense against your allies.\n\n''增益：''当你使用[[障目之云 Cloud Sight]]时，此威能的目标同时提供战斗优势直到你下一回合结束\n@@\n!! 17级：精类契约遭遇威能 Fey Pact Encounter Power\n@@.indent\nAs you grow more and more like your fey patron, filled with Unseelie magic and knowledge both dangerous and arcane, you learn to focus your abilities on a single enemy and bend its will to your needs. You make that enemy your faithful servant, ensuring that it turns upon its own allies rather than see you come to harm.\n@@\n{{海妖之歌 Song of the Siren}}\n!! 23级：精类契约遭遇威能 Fey Pact Encounter Power\n@@.indent\nThose who are foolish enough to approach you quickly find themselves under your thrall. You are now as much of an Unseelie force as your fey patron, and any who get close enough for you to lay a hand on them quickly turn to strike their own allies.\n@@\n{{不甘背叛 Unwilling Betrayal}}\n!! 25级：高阶缚影师盟友（精类契约） Greater Binder's Ally (Fey)\n@@.indent\nA status symbol among many eladrin noble houses and a valued servant among all fey creatures, the displacer beast is a dangerous creature that reflects the predatory and deceptive aspects of the Feywild. Your power has grown to the extent that you can reach into the Feywild and summon one of these creatures. Upon its arrival, it obeys your commands, sensing the Unseelie magic you wield.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[位移兽 Displacer Beast]]\n@@\n{{位移兽 Displacer Beast}}\n!! 27级：精类契约遭遇威能 Fey Pact Encounter Power\n@@.indent\nEven the most shadow-tainted of fey creatures retains some of the Feywild's beauty and charm. Your fey patron wants the same adoration and devotion as any other fey lord. But where many members of the Court of Stars offer protection and generosity in return for the supplication of their subjects, your patron sees lesser creatures as worms that should grovel at its feet or be crushed under its boot, should the whim strike. You can tap into this drive and force your enemies to kneel before you as they writhe in the terrible beauty and delicious agony of your presence. This devotion briefly lingers, even after you depart.\n@@\n{{蠕虫之愿 Supplication of the Worms}}",
+    "fields": {
+      "created": "20220901024024937",
+      "creator": "Leon",
+      "modified": "20221116080242103",
+      "modifier": "Leon",
+      "source": "Dragon"
+    },
+    "wiki": {
+      "transclusions": [
+        "精灵潜袭 Unseelie Sprites",
+        "忠诚诱惑 Lure of Loyalty",
+        "控制之触 Touch of Command",
+        "夜魔 Satyr of the Night",
+        "梦魇毒藤 Nightmare Vines",
+        "神行呼叫 Fleeting Call",
+        "海妖之歌 Song of the Siren",
+        "不甘背叛 Unwilling Betrayal",
+        "位移兽 Displacer Beast",
+        "蠕虫之愿 Supplication of the Worms"
+      ],
+      "links": [
+        {
+          "target": "障目之云 Cloud Sight"
+        },
+        {
+          "target": "迷魂暗影 Fascinating Shadows"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "夜魔 Satyr of the Night"
+        },
+        {
+          "target": "迷魂暗影 Fascinating Shadows"
+        },
+        {
+          "target": "障目之云 Cloud Sight"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "位移兽 Displacer Beast"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：精类契约之赐（缚影师） Fey Pact Boon (Binder)",
+        "1级：精类契约遭遇威能 Fey Pact Encounter Power",
+        "3级：精类契约遭遇威能 Fey Pact Encounter Power",
+        "4级：精类契约学识 Fey Pact Lore",
+        "7级：精类契约遭遇威能 Fey Pact Encounter Power",
+        "9级：缚影师盟友（精类契约） Binder's Ally (Fey)",
+        "11级：缚影师行动（精类契约） Binder's Action (Fey)",
+        "11级：缚影师恩惠（精类契约） Binder's Favor (Fey)",
+        "11级：精类契约遭遇威能 Fey Pact Encounter Power",
+        "13级：精类契约遭遇威能 Fey Pact Encounter Power",
+        "16级：缚影师之赐（精类契约） Binder's Boon (Fey)",
+        "17级：精类契约遭遇威能 Fey Pact Encounter Power",
+        "23级：精类契约遭遇威能 Fey Pact Encounter Power",
+        "25级：高阶缚影师盟友（精类契约） Greater Binder's Ally (Fey)",
+        "27级：精类契约遭遇威能 Fey Pact Encounter Power"
+      ]
+    }
+  },
+  {
+    "id": "炼狱契约 Infernal Pact",
+    "name": "炼狱契约",
+    "nameEn": "Infernal Pact",
+    "category": "pact",
+    "tags": [
+      "魔剑士契约"
+    ],
+    "source": "HoFK",
+    "sourceText": "@@.indent\nThe ancient empire of Bael Turath forged one of the most well-known pacts with the devils of the Nine Hells. Within the labyrinthine system of codes, laws, and oaths that bind the devils into their rigid order, a number of secret loopholes and gaps exist that allow mortals to exploit the deal made by the tieflings' forefathers. And you are one of the hexblades who has learned to do so.\n\nDevils harbor a particular hatred for infernal pact hexblades. The devils prefer worship and subservience, rather than the theft of their power.\n@@\n!! 1级：炼狱契约奖励 Infernal Pact Reward\n@@.indent\nWith the power of the infernal pact, your vitality and endurance help fuel your spells.\n\n''增益：''你在你的邪术师攻击威能和邪术师典范之道攻击威能的伤害骰上获得等同于你体质调整值的加值。5级时，此加值为2 + 你体质调整值；15级时，此加值为4 + 你体质调整值；25级时，此加值为6 + 你体质调整值。\n\n9级时，你以[[召唤邪术师盟友 Summon Warlock's Ally]]召唤的生物也在伤害骰上获得此加值\n@@\n!! 1级：炼狱契约之赐 Infernal Pact Boon\n@@.indent\nMost hexblades bid some part of their enemies' souls to their patrons, but you have turned the laws of the hells against their masters. When you slay a foe, you claim its soul energy for yourself. Minor cuts and bruises disappear as you reap the benefits of your treachery. In the back of your mind you can hear the infernal lords cursing you and plotting your demise.\n\n''增益：''你获得[[灵魂盛宴 Soul Feast]]威能\n@@\n!! 1级：炼狱契约武器 Infernal Pact Weapon\n@@.indent\nThe origin of the blade of annihilation is not entirely known. Some believe that the powerful tiefling warlock who created the first infernal pact created the blade. Others believe that it is the remains of an ancient curse placed upon Asmodeus, lord of the Nine Hells, for his treachery in slaying the god remembered as He Who Was and rising to rule all devilkind. What is known is that although infernal pact hexblades are hated and loathed by devils, those hexblades bearing a blade of annihilation are met with even greater wrath. This might be due to the fact that some believe the blade is crafted from the essence of slain devils, and that their life force is what powers a hexblade's pact.\n\nThere might be some truth to the thought that the blade is a partially sentient being, for it seems to exult whenever it is used to defeat an enemy. With soul eater, you unlock the weapon's ability to drain a foe's life essence to empower your attacks. Blazing doom of the void stokes the weapon's bloodlust, causing flames to lick along its edge as it slices into your enemy. A hexblade wielding this weapon hears a faint roar in his or her mind with each strike, as if some faint, distant being seeks greater acts of bloodlust. Rumors also abound of hexblades who bore this weapon and fell into the service of evil, rising to become great champions of the hells.\n@@\n<div id=powercard>\n<div class=powercardborder>\n<div class=powercardatwill style=\"background-color: #D9941C\"><span class=powername>湮灭之刃 Blade of Annihilation</span><span class=powerlvl>邪术师装备</span></div>\n<div class=powerexplains>This ebony sword seems to absorb the light around it. Motes of silvery light dance along its blade.</div>\n<table class=details>\n  <tbody>\n  <tr>\n    <th>武器分类：</th>\n    <td>单手军用近战武器</td></tr>\n  <tr>\n    <th>武器组：</th>\n    <td>重刃</td></tr>\n  <tr>\n    <th>擅长加值：</th>\n    <td>+2</td></tr>\n  <tr>\n    <th>伤害：</th>\n    <td>1d12</td></tr></tbody></table></div></div>\n\n{{灵魂捕食者 Soul Eater}}\n{{虚空燃炎 Blazing Doom of the Void}}\n!! 7级：炼狱契约武器惩戒 Infernal Pact Weapon Retribution\n@@.indent\nWhen an enemy dares attack you, you lash out at it with your pact blade, leaving a wound of fire, which forces your foe away.\n\n''增益：''你获得[[反射地狱打击 Reflexive Hellstrike]]威能\n@@\n!! 9级：召唤邪术师盟友（炼狱契约） Summon Warlock's Ally (Infernal)\n@@.indent\nSpined devils are some of the weakest of their kind, making their enforced fealty to you more offensive to them. They serve only out of terror, knowing the price your magic will extract from them for any rebellion, since a devil that fails to honor its summoner's demand is instantly annihilated. A summoned spined devil will shout oaths and threats at you, and this spell usually calls forth the same devil, allowing it to nurse a long-standing grudge. The spined devil lackey's death in the world does not destroy it if it died following your orders; instead, it is released back to the hells. Thus, a summoned devil enthusiastically follows suicidal orders.\n\nWhen summoned into battle, a spined devil lackey rains its deadly quills upon your enemies. If an enemy moves too close to you, a quick mental command to it will make the devil launch a quill attack at your foe.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[刺魔侍从 Spined Devil Lackey]]\n@@\n{{刺魔侍从 Spined Devil Lackey}}\n!! 11级：魔剑士行动（炼狱契约） Hexblade's Action (Infernal)\n@@.indent\n''传说魔剑士典范之道特性''\n\nAs you enter the paragon tier, you learn to master the infernal energy channeled to you through your pact. Your control is such that you can now direct that energy at an enemy, causing it searing pain.\n\n''增益：''当你花费一个行动点进行额外动作时，在你回合结束前，下一个你的攻击命中或失手的敌人受到等同于5 + 你体质调整值的火焰伤害\n@@\n!! 11级：炼狱契约面貌 Infernal Pact Aspect\n@@.indent\n''传说魔剑士典范之道特性''\n\nYour scaly skin and supernatural presence unsettle other creatures.\n\n''增益：''你获得10点火焰抗力，且在威吓检定上获得+2加值。21级时，此抗力值为20。如果你已经有了10点或更高的火焰抗力（21级时20点或更高），则你的火焰抗力增加5点\n@@\n!! 11级：炼狱契约诅咒 Infernal Pact Curse\n@@.indent\n''传说魔剑士典范之道特性''\n\nWith this spell, you weave hellfire into your enemy's soul. A smoldering flame erupts within its body, exploding out in jets of fire that sear nearby enemies.\n@@\n{{燃魂诅咒 Curse of the Fiery Soul}}\n!! 12级：炼狱契约祈祷 Infernal Pact Invocation\n@@.indent\n''传说魔剑士典范之道特性''\n\nThe lords of the Nine Hells have no interest in aiding you. After all, you have used their own rules against them to steal their power. They prefer worship and service, not defiant robbery. When you use this power, the pact you forced upon them requires them to give you aid. However, this assistance comes at a price.\n@@\n{{炼狱祈祷 Infernal Invocation}}\n!! 16级：进阶炼狱契约之赐 Improved Infernal Pact Boon\n@@.indent\n''传说魔剑士典范之道特性''\n\nAs you consign your foes to oblivion, you extract raw arcane power from their passing. You have mastered this power to the point that you can now bring forth that energy in the form of a concussive burst that sweeps away your foes.\n\n''增益：''当你使用[[灵魂盛宴 Soul Feast]]时，你同时可以推离每个邻近你的敌人1格\n@@\n!! 20级：炼狱契约变形 Infernal Pact Transformation\n@@.indent\n''传说魔剑士典范之道特性''\n\nThis audacious spell steals power from Asmodeus himself, seizing an iota of his raw energy and seeding it within you to fuel a dramatic transformation. Though such a small portion might not seem like much, it is enough to grant you the power to hew through your enemies. Asmodeus's wrath at your theft flows through this spell, turning you into a berserk warrior.\n@@\n{{炼狱变形 Infernal Transformation}}\n!! 25级：高阶召唤邪术师盟友（炼狱契约） Greater Summon Warlock's Ally (Infernal)\n@@.indent\nPlucking a pit fiend from the battlefields of the Blood War and forcing it to serve you shows the height of both your power to summon devils and the insult you levy against the lords of the Nine Hells with each spell you cast. Although your magic is strong, it is not strong enough to force complete obedience from a pit fiend. Instead, you compel it to send a shadow of itself to your side, but a shadow that is still a fearsome enemy and a useful ally. It uses its flametouched mace to deliver scorching melee strikes, and its tail sting poisons enemies that linger too close to you.\n\nThe shadow of the pit fiend summoned in this manner takes note of your appearance, name, goals, and enemies, relaying it back to the original. Thereafter, your name is entered into the annals of the hells as an enemy of every devil.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[深狱炼魔仆人 Pit Fiend Servitor]]\n@@\n{{深狱炼魔仆人 Pit Fiend Servitor}}",
+    "fields": {
+      "created": "20220823150946146",
+      "creator": "Leon",
+      "modified": "20221116064140582",
+      "modifier": "Leon",
+      "source": "HoFK"
+    },
+    "wiki": {
+      "transclusions": [
+        "灵魂捕食者 Soul Eater",
+        "虚空燃炎 Blazing Doom of the Void",
+        "刺魔侍从 Spined Devil Lackey",
+        "燃魂诅咒 Curse of the Fiery Soul",
+        "炼狱祈祷 Infernal Invocation",
+        "炼狱变形 Infernal Transformation",
+        "深狱炼魔仆人 Pit Fiend Servitor"
+      ],
+      "links": [
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "灵魂盛宴 Soul Feast"
+        },
+        {
+          "target": "反射地狱打击 Reflexive Hellstrike"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "刺魔侍从 Spined Devil Lackey"
+        },
+        {
+          "target": "灵魂盛宴 Soul Feast"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "深狱炼魔仆人 Pit Fiend Servitor"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：炼狱契约奖励 Infernal Pact Reward",
+        "1级：炼狱契约之赐 Infernal Pact Boon",
+        "1级：炼狱契约武器 Infernal Pact Weapon",
+        "7级：炼狱契约武器惩戒 Infernal Pact Weapon Retribution",
+        "9级：召唤邪术师盟友（炼狱契约） Summon Warlock's Ally (Infernal)",
+        "11级：魔剑士行动（炼狱契约） Hexblade's Action (Infernal)",
+        "11级：炼狱契约面貌 Infernal Pact Aspect",
+        "11级：炼狱契约诅咒 Infernal Pact Curse",
+        "12级：炼狱契约祈祷 Infernal Pact Invocation",
+        "16级：进阶炼狱契约之赐 Improved Infernal Pact Boon",
+        "20级：炼狱契约变形 Infernal Pact Transformation",
+        "25级：高阶召唤邪术师盟友（炼狱契约） Greater Summon Warlock's Ally (Infernal)"
+      ]
+    }
+  },
+  {
+    "id": "星辰契约 Star Pact",
+    "name": "星辰契约",
+    "nameEn": "Star Pact",
+    "category": "pact",
+    "tags": [
+      "魔剑士契约"
+    ],
+    "source": "Dragon",
+    "magazine": "#393",
+    "sourceText": "@@.indent\nThe strange entities that associated with the stars have many names, but oddly, these names seem a constant across all languages and cultures that know them. Star hexblades learn the names in fevered dreams and waking delusions, and among them are the following: Hadar, Acamar, Gibbeth, Nihal, and Ulban. Each is associated with a particular light in the night sky, or in the position where a star should be. The powers and personalities associated with the stars differ according to the warlock who interacts with them, and their influence is often so subtle as to make star pact hexblades who detect it doubt their own thoughts and senses.\n@@\n!! 1级：星辰契约奖励 Star Pact Reward\n@@.indent\nAs a star pact hexblade, you use your intellect and knowledge of the arcane to weave strength into your attacks, adding power to both your magical and physical attacks.\n\n''增益：''你在你的邪术师威能和邪术师典范之道威能的伤害骰上获得等同于你智力调整值的加值。5级时，此加值为2 + 你智力调整值；15级时，此加值为4 + 你智力调整值；25级时，此加值为6 + 你智力调整值。\n\n9级时，你以[[召唤邪术师盟友 Summon Warlock's Ally]]召唤的生物也在伤害骰上获得此加值\n@@\n!! 1级：星辰契约之赐 Star Pact Boon\n@@.indent\nThey say a creature's fate is written in the stars, yet only star pact hexblades can fully comprehend how true that aphorism is. Doom begets doom, and death spirals inevitably toward more death. With the influence of Acamar, the Hungry Star, you use the death of one foe to tug at the web of fate and draw another enemy closer to the end.\n\n''增益：''你获得[[不祥之兆 Dire Fate]]威能\n@@\n!! 1级：星辰契约武器 Star Pact Weapon\n@@.indent\nThe secrets of the starshadow blade always find their way into the possession of a star pact hexblade through seeming coincidence and accidents of misfortune. When you call your pact weapon, it takes the form of a longsword formed of ghostly light and darkness. At times it glimmers with a baleful paleness and at others it appears surrounded by slithering tendrils of shadow visible only from the corner of the eye.\n\nThe entities you contact through the star pact exist as beings of unknowable minds associated with both the brilliance of stars and the cold silence of the dark between them. occupying a unique place both within and outside the cosmos, they sit astride the skeins of fate. Resplendent blade and wield the warp reveal these connections by giving you the power to create starbursts with sword strokes and to alter existence by shifting all in the universe but you and your foe.\n@@\n<div id=powercard>\n<div class=powercardborder>\n<div class=powercardatwill style=\"background-color: #D9941C\"><span class=powername>星影之刃 Starshadow Blade</span><span class=powerlvl>邪术师装备</span></div>\n<div class=powerexplains>This longsword of shifting light and shadow appears as if someone made it by folding molten dreams and nightmares in the forge of a star.</div>\n<table class=details>\n  <tbody>\n  <tr>\n    <th>武器分类：</th>\n    <td>单手军用近战武器</td></tr>\n  <tr>\n    <th>武器组：</th>\n    <td>重刃</td></tr>\n  <tr>\n    <th>擅长加值：</th>\n    <td>+3</td></tr>\n  <tr>\n    <th>伤害：</th>\n    <td>1d10</td></tr></tbody></table></div></div>\n\n{{光辉之刃 Resplendent Blade}}\n{{挥舞扭曲 Wield the Warp}}\n!! 7级：星辰契约武器惩戒 Star Pact Weapon Retribution\n@@.indent\nStar pact hexblades know Ihbar not by its light, but by its darkness. A blot of black in the sky that has slowly expanded over the centuries, Ihbar swallows traveling stars, cloaking their light as they enter it. Ihbar seems reluctant to release the wandering celestial bodies that enter it, because they take longer to cross Ihbar's darkness than other sectors of the sky. Star pact hexblades use the gaze into nothing power to grant foes a glimpse into Ihbar's darkness. For some the blindness provokes terror. A rare few have even gone mad.\n\n''增益：''你获得[[凝视虚无 Gaze into Nothing]]威能\n@@\n!! 9级：召唤邪术师盟友（星辰契约） Summon Warlock's Ally (Star)\n@@.indent\nA presence enters the world in response to your call. A crack in the air opens to reveal a sucking void, and the struggling mass of an unseen thing emerges before the crack closes with a sound like skin tearing. You have summoned a thought phantom, one of the lesser spawn of the star entities. The thought phantom is slow but it stalks foes invisibly and seeks to crush their thoughts.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[沉思幽灵 Thought Phantom]]\n@@\n{{沉思幽灵 Thought Phantom}}\n!! 11级：魔剑士行动（星辰契约） Hexblade's Action (Star)\n@@.indent\n''传说魔剑士典范之道特性''\n\nWith intense focus upon your arcane connection to the stars, you open a conduit to the thoughts of the star entities and foist their attentions upon your foe. By shielding your brain to even a glimpse of their intense minds, you save yourself from their staggering power.\n\n''增益：''当你花费一个行动点进行额外动作时，在你回合结束前，下一个你的攻击命中或失手的敌人晕眩直到你下一回合结束\n@@\n!! 11级：星辰契约面貌 Star Pact Aspect\n@@.indent\n''传说魔剑士典范之道特性''\n\nYour intense meditation on the beings that lurk beyond space and that link the planes gives you astonishing insight into the magic that flows through everything and steels your mind against the horrors of the knowledge you unearth.\n\n''增益：''你在神秘检定上获得+2加值，且获得10点心灵抗力。20级时，此抗力值为20。如果你已经有了10点或更高（20级时，20点或更高）的心灵抗力，则你的心灵抗力增加5点\n@@\n!! 11级：星辰契约诅咒 Star Pact Curse\n@@.indent\n''传说魔剑士典范之道特性''\n\nYou've come to learn things forgotten by primordials and kept secret by gods. Your connection with the beings that provide that knowledge grants you protection against the dangers of knowing things that the universe wishes to remain unknown, but your enemies aren't so lucky. You open a foe to the insights of Khirad, the piercing blue star of insight and horror.\n@@\n{{禁断知识诅咒 Curse of Forbidden Knowledge}}\n!! 12级：星辰契约祈祷 Star Pact Invocation\n@@.indent\n''传说魔剑士典范之道特性''\n\nYou open your mind and body to the stars and become them. Your body transforms into radiance and void, and as you gain the perspective of the distant stars, you feel yourself becoming more detached from the reality you know. The star entities show little interest in the affairs of mortals, but as you siphon their power to do your will, you can't help but feel that something is watching—and drawing closer.\n@@\n{{星辰祈祷 Star Invocation}}\n!! 16级：进阶星辰契约之赐 Improved Star Pact Boon\n@@.indent\n''传说魔剑士典范之道特性''\n\nYour promise to the star entities offered them more than you realized, but it granted more power than you thought as well. Now that you understand what you have lost, you believe you would have made the same bargain, but perhaps your thoughts to the contrary were also bargained away. The death of a foe not only causes a hole in fate but an imbalance in space as well, allowing you to manage the motion of enemies like the Behemoth Star, Acamar, shifts the stars around it.\n\n''增益：''当你使用[[不祥之兆 Dire Fate]]时，你可以选择离你2格内的一个敌人且滑动此敌人1格\n@@\n!! 20级：星辰契约变形 Star Pact Transformation\n@@.indent\n''传说魔剑士典范之道特性''\n\nCalling upon the star entities to fulfill their enigmatic promise to you, you erupt into an ecstasy of light. Floating high above the battlefield, your radiance shines brighter than the sun. Allies can hardly bear to look upon your majesty, and enemies can be struck blind when they dare to face you.\n@@\n{{星辰变形 Starry Transformation}}\n!! 25级：高阶召唤邪术师盟友（星辰契约） Greater Summon Warlock's Ally (Star)\n@@.indent\nA moment after your call, the soundless and weightless immensity of the way walker simply appears. Air feels drawn into the starry void that forms its roughly humanoid body. Around it sounds seem muted. light dims.\nThis being from the outer darkness serves the star entities, acting toward their unknowable ends in the voids between worlds and planes. Unused to existence in mortal space, the way walker is only half real. It passes through objects like a ghost, and it can grant you and your allies the power to walk with it in the spaces between existence and nothingness. Enemies who feel its touch aren't so lucky; their minds become open to the incredible disinterest the way walker feels toward all reality, and, for a moment, they lose the will to act or to live.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[道路行者 Way Walker]]\n@@\n{{道路行者 Way Walker}}",
+    "fields": {
+      "created": "20220824021926307",
+      "creator": "Leon",
+      "modified": "20221116064951275",
+      "modifier": "Leon",
+      "source": "Dragon",
+      "magazine": "#393"
+    },
+    "wiki": {
+      "transclusions": [
+        "光辉之刃 Resplendent Blade",
+        "挥舞扭曲 Wield the Warp",
+        "沉思幽灵 Thought Phantom",
+        "禁断知识诅咒 Curse of Forbidden Knowledge",
+        "星辰祈祷 Star Invocation",
+        "星辰变形 Starry Transformation",
+        "道路行者 Way Walker"
+      ],
+      "links": [
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "不祥之兆 Dire Fate"
+        },
+        {
+          "target": "凝视虚无 Gaze into Nothing"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "沉思幽灵 Thought Phantom"
+        },
+        {
+          "target": "不祥之兆 Dire Fate"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "道路行者 Way Walker"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：星辰契约奖励 Star Pact Reward",
+        "1级：星辰契约之赐 Star Pact Boon",
+        "1级：星辰契约武器 Star Pact Weapon",
+        "7级：星辰契约武器惩戒 Star Pact Weapon Retribution",
+        "9级：召唤邪术师盟友（星辰契约） Summon Warlock's Ally (Star)",
+        "11级：魔剑士行动（星辰契约） Hexblade's Action (Star)",
+        "11级：星辰契约面貌 Star Pact Aspect",
+        "11级：星辰契约诅咒 Star Pact Curse",
+        "12级：星辰契约祈祷 Star Pact Invocation",
+        "16级：进阶星辰契约之赐 Improved Star Pact Boon",
+        "20级：星辰契约变形 Star Pact Transformation",
+        "25级：高阶召唤邪术师盟友（星辰契约） Greater Summon Warlock's Ally (Star)"
+      ]
+    }
+  },
+  {
+    "id": "星辰契约 Star Pact (Binder)",
+    "name": "星辰契约",
+    "nameEn": "Star Pact (Binder)",
+    "category": "pact",
+    "tags": [
+      "缚影师契约"
+    ],
+    "source": "HoS",
+    "sourceText": "@@.indent\nThe night sky of the mortal realm is an unfathomable deep filled with uncountable stars. In the dark between those stars lies the Far Realm, where dread creatures creep just beyond the reach of mortal senses and sanity. Older than all other parts of creation, these entities can be observed only as celestial patterns and signs. A binder of the star pact learns to manipulate those fell patterns, and to channel power no mortal creature was meant to know.\n\nStar pact warlocks depend on Intelligence to master the dangerous knowledge they pursue. Any warlock can choose to take powers of the star pact that have levels, but binders have a special affinity for the madness and magic it represents. A binder gains additional benefit from some star pact powers, as noted in the power's description.\n@@\n!! 1级：星辰契约之赐（缚影师） Star Pact Boon (Binder)\n@@.indent\nYour connection to the mysterious Far Realm allows you to thwart the sight and senses of your enemies. You shroud a foe’s mind with a glimpse of the darkness beyond the stars.\n\n''增益：''你获得[[藏身学识 Hidden Lore]]和[[精神暗影 Mind Shadows]]威能\n@@\n!! 1级：星辰契约遭遇威能 Star Pact Encounter Power\n@@.indent\nThe power of the Far Realm lets you shape shadow in the likeness of the creatures that writhe beyond the void.\n@@\n{{暗影触手 Shadow Tentacles}}\n!! 3级：星辰契约遭遇威能 Star Pact Encounter Power\n@@.indent\nBy opening a small rent in the boundary between this world and the lightless void, you allow the horror of that darkness to wash across your enemies.\n@@\n{{虚空冲击 Void Blast}}\n!! 4级：星辰契约学识 Star Pact Lore\n@@.indent\nTouched by knowledge that is not meant to be tasted by mortals, your mind opens to the power of the Far Realm.\n\n''增益：''你获得5点心灵抗力，且在神秘检定和宗教检定上获得+2加值\n@@\n!! 7级：星辰契约遭遇威能 Star Pact Encounter Power\n@@.indent\nThe eternal darkness that spreads between the stars is charged with deadly cold. By manipulating your power to form a black cyst of this nothingness, you freeze your foe from the inside out.\n@@\n{{黑暗囊肿 Cyst of Darkness}}\n!! 9级：缚影师盟友（星辰契约） Binder's Ally (Star)\n@@.indent\nThe soul eater is a strange creature spawned between the stars. It appears as an inky cloud of darkness from which emerge two gnarled claws. Feeding on the death energy of other creatures, the soul eater channels that energy to you in the heat of combat.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[噬魂者 Soul Eater]]\n@@\n{{噬魂者 Soul Eater}}\n!! 11级：缚影师行动（星辰契约） Binder's Action (Star)\n@@.indent\n''缚影大师典范之道特性''\n\nYour mastery over the forces that dwell in the void makes your spontaneous attacks more potent.\n\n''增益：''当你花费一个行动点进行额外动作时，你在造成寒冰，暗蚀，或心灵伤害的伤害骰上获得+4加值。此加值持续到你此回合结束。\n@@\n!! 11级：缚影师恩惠（星辰契约） Binder's Favor (Star)\n@@.indent\n''缚影大师典范之道特性''\n\nYou can cast your foe's mind into a darkness that renders it more vulnerable to the realities of the physical world.\n\n''增益：''当你以你的[[精神暗影 Mind Shadows]]命中时，所有对此威能的目标具有战斗优势的攻击都在伤害骰上获得+2威能加值，直到你下一回合结束\n@@\n!! 11级：星辰契约遭遇威能 Star Pact Encounter Power\n@@.indent\n''缚影大师典范之道特性''\n\nAs you enter the paragon tier, you gain a deeper understanding of the terrors that lurk within the void. This dreaded spell casts a foe into the darkness for a brief second to overwhelm its body and mind.\n@@\n{{黑暗放逐 Banish to Darkness}}\n!! 13级：星辰契约遭遇威能 Star Pact Encounter Power\n@@.indent\nThe dark energy of the void has a hunger for all living things. When you summon that void to the battlefield, any creature that lingers too close pays the price.\n@@\n{{暗黑吞噬 Devouring Dark}}\n!! 16级：缚影师之赐（星辰契约） Binder's Boon (Star)\n@@.indent\n''缚影大师典范之道特性''\n\nYour alliance with the entities beyond the stars allows you to fade from reality, slipping toward nonexistence when you vanish from your foes' sight.\n\n''增益：''当你使用你的[[藏身学识 Hidden Lore]]时，你可以同时成为虚体直到你下一回合结束\n@@\n!! 17级：星辰契约遭遇威能 Star Pact Encounter Power\n@@.indent\nYou have spent your life strengthening your mind against the horrors of the Far Realm. Those who lack your discipline and training do not fare as well as you when the void presses in.\n@@\n{{高级虚空爆发 Greater Void Burst}}\n!! 23级：星辰契约遭遇威能 Star Pact Encounter Power\n@@.indent\nThis deadly spell can cripple even the strongest foe with searing pain, for no creature can withstand the power of the void for long.\n@@\n{{内在虚空 Inner Void}}\n!! 25级：高阶缚影师盟友（星辰契约） Greater Binder's Ally (Star)\n@@.indent\nA doom hulk is a humanoid brute sculpted from the darkness between the stars, then bound by magic and granted limited sentience. It crushes its foes with its powerful fists, while those who remain too close to it quickly feel their life force drawn away.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[厄运巨物 Doom Hulk]]\n@@\n{{厄运巨物 Doom Hulk}}\n!! 27级：星辰契约遭遇威能 Star Pact Encounter Power\n@@.indent\nAt the height of your pact’s power, you call forth the lifeless maw of the void. This dark energy tears at all creatures with the hunger of the faceless horrors that dwell within it.\n@@\n{{饥渴虚空 Hungry Void}}",
+    "fields": {
+      "created": "20220901022321992",
+      "creator": "Leon",
+      "modified": "20221116080919422",
+      "modifier": "Leon",
+      "source": "HoS"
+    },
+    "wiki": {
+      "transclusions": [
+        "暗影触手 Shadow Tentacles",
+        "虚空冲击 Void Blast",
+        "黑暗囊肿 Cyst of Darkness",
+        "噬魂者 Soul Eater",
+        "黑暗放逐 Banish to Darkness",
+        "暗黑吞噬 Devouring Dark",
+        "高级虚空爆发 Greater Void Burst",
+        "内在虚空 Inner Void",
+        "厄运巨物 Doom Hulk",
+        "饥渴虚空 Hungry Void"
+      ],
+      "links": [
+        {
+          "target": "藏身学识 Hidden Lore"
+        },
+        {
+          "target": "精神暗影 Mind Shadows"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "噬魂者 Soul Eater"
+        },
+        {
+          "target": "精神暗影 Mind Shadows"
+        },
+        {
+          "target": "藏身学识 Hidden Lore"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "厄运巨物 Doom Hulk"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：星辰契约之赐（缚影师） Star Pact Boon (Binder)",
+        "1级：星辰契约遭遇威能 Star Pact Encounter Power",
+        "3级：星辰契约遭遇威能 Star Pact Encounter Power",
+        "4级：星辰契约学识 Star Pact Lore",
+        "7级：星辰契约遭遇威能 Star Pact Encounter Power",
+        "9级：缚影师盟友（星辰契约） Binder's Ally (Star)",
+        "11级：缚影师行动（星辰契约） Binder's Action (Star)",
+        "11级：缚影师恩惠（星辰契约） Binder's Favor (Star)",
+        "11级：星辰契约遭遇威能 Star Pact Encounter Power",
+        "13级：星辰契约遭遇威能 Star Pact Encounter Power",
+        "16级：缚影师之赐（星辰契约） Binder's Boon (Star)",
+        "17级：星辰契约遭遇威能 Star Pact Encounter Power",
+        "23级：星辰契约遭遇威能 Star Pact Encounter Power",
+        "25级：高阶缚影师盟友（星辰契约） Greater Binder's Ally (Star)",
+        "27级：星辰契约遭遇威能 Star Pact Encounter Power"
+      ]
+    }
+  },
+  {
+    "id": "阴暗契约 Gloom Pact",
+    "name": "阴暗契约",
+    "nameEn": "Gloom Pact",
+    "category": "pact",
+    "tags": [
+      "魔剑士契约"
+    ],
+    "source": "HoS",
+    "sourceText": "@@.indent\nYou have made a bargain with the darkness, drawing on the power of the unseen masters of the Shadowfell and making that power your own. When you forged this pact, you sacrificed a portion of your own soul to whet your patron's appetite. From that point forward, each enemy that falls before you is drawn into the embrace of the dark power you serve.\n\nThe gloom pact grants you access to shadow power, which you weave into your arcane spells. Charisma is important to you, because your pact features and powers depend on it. Dexterity should be your second-highest score.\n@@\n!! 1级：阴暗契约奖励 Gloom Pact Reward\n@@.indent\nThe darkness to which you pay homage grants you a surge of supernatural power that you can channel into your magical attacks.\n\n''增益：''你在你的邪术师攻击威能和邪术师典范之道攻击威能的伤害骰上获得等同于你敏捷调整值的加值。5级时，此加值为2 + 你敏捷调整值；15级时，此加值为4 + 你敏捷调整值；25级时，此加值为6 + 你敏捷调整值。\n\n9级时，你以[[召唤邪术师盟友 Summon Warlock's Ally]]召唤的生物也在伤害骰上获得此加值\n@@\n!! 1级：阴暗契约之赐 Gloom Pact Boon\n@@.indent\nThe spirits of those you slay congregate around you, warped by shadow energy into wretched shells that are hungry for the life denied them. When you harvest an enemy's life force, you let it carry it into the shadow for a time.\n\n''增益：''你获得[[暗影集结 Convocation of Shadows]]威能\n@@\n!! 1级：阴暗契约武器 Gloom Pact Weapon\n@@.indent\nThe scourge of exquisite agony is the vile weapon of a torturer, and it can channel the shadow power of your pact against those who refuse to yield to you. An iron handle wrapped in stained leather, the scourge is set with nine steel chains each ending in a barbed hook. These tails move of their own volition, writhing in their eagerness to taste the flesh of your foes.\n\n当你获得此武器时，你同时获得在持用该武器时能使用的2个威能，[[皮开肉绽 Flesh Rend]]和[[精神剥离 Spirit Flay]]\n@@\n<div id=powercard>\n<div class=powercardborder>\n<div class=powercardatwill style=\"background-color: #D9941C\"><span class=powername>剧痛之鞭 Scourge of Exquisite Agony</span><span class=powerlvl>邪术师装备</span></div>\n<div class=powerexplains>The horrid tails hanging from this blackened flail writhe like steel serpents, their bite capable of rending armor, flesh, and bone.</div>\n<table class=details>\n  <tbody>\n  <tr>\n    <th>武器分类：</th>\n    <td>单手军用近战武器</td></tr>\n  <tr>\n    <th>武器组：</th>\n    <td>连枷</td></tr>\n  <tr>\n    <th>擅长加值：</th>\n    <td>+2</td></tr>\n  <tr>\n    <th>伤害：</th>\n    <td>1d10</td></tr>\n  <tr>\n    <th>武器特性：</th>\n    <td>触及</td></tr></tbody></table></div></div>\n\n{{皮开肉绽 Flesh Rend}}\n{{精神剥离 Spirit Flay}}\n!! 7级：阴暗契约武器惩戒 Gloom Pact Weapon Retribution\n@@.indent\nAny enemy that dares to strike at you discovers that you are never defenseless when armed with your deadly scourge.\n\n''增益：''你获得[[暗影鞭笞 Shadow Scourge]]威能\n@@\n!! 9级：召唤邪术师盟友（阴暗契约） Summon Warlock's Ally (Gloom)\n@@.indent\nThe mysterious dark ones are a furtive, murderous lot, wicked and unnerving in their zeal for murder. As your servant, a dark creeper eagerly answers your call for the chance to target distracted enemies, slinking across the battlefield to help conceal you from your foes and plant its blade in an enemy's back.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[黑暗爬行者 Dark Creeper]]\n@@\n{{黑暗爬行者 Dark Creeper}}\n!! 11级：魔剑士行动（阴暗契约） Hexblade's Action (Gloom)\n@@.indent\n''传说魔剑士典范之道特性''\n\nThe dark power behind your pact lends you the strength you need to push beyond your normal limits. By drinking deep of the power of shadow, you become something like a shadow yourself.\n\n''增益：''当你花费一个行动点进行额外动作时，你成为虚体直到你下一回合结束\n@@\n!! 11级：阴暗契约面貌 Gloom Pact Aspect\n@@.indent\n''传说魔剑士典范之道特性''\n\nAs the energy of the Shadowfell flows through you, the dark power of that realm grants you a measure of protection.\n\n''增益：''你获得10点暗蚀抗力，且在隐秘检定上获得+2加值。如果你已经有了10点或更高的暗蚀抗力，则你的暗蚀抗力增加5点\n@@\n!! 11级：阴暗契约诅咒 Gloom Pact Curse\n@@.indent\n''传说魔剑士典范之道特性''\n\nYou maintain your pact through the destruction you wreak in battle. To aid in this harvest of souls, you master a dreadful spell that denies your enemy the ability to flee or fight back.\n@@\n{{衰老诅咒 Curse of Age}}\n!! 12级：阴暗契约祈祷 Gloom Pact Invocation\n@@.indent\n''传说魔剑士典范之道特性''\n\nYou call on the power of shadow, but no one ever truly controls that power. The gloom that swirls around you can hide you from view. However, this same darkness can steal away your strength to leave you vulnerable to attack.\n@@\n{{黑暗祈祷 Dark Invocation}}\n!! 16级：进阶阴暗契约之赐 Improved Gloom Pact Boon\n@@.indent\n''传说魔剑士典范之道特性''\n\nThe spirit energy of your fallen enemies is twisted and corrupted by your increased dark power. When the time is right, you channel the rage of all those foes into a concerted attack.\n\n''增益：''当你使用[[暗影集结 Convocation of Shadows]]时，在你下一回合结束前，你同时对你下一次攻击的单一目标获得战斗优势\n@@\n!! 20级：阴暗契约变形 Gloom Pact Transformation\n@@.indent\n''传说魔剑士典范之道特性''\n\nBy releasing the shadow that clouds your soul, you invest your physical form with dread magic. You become a creature of pure darkness—a malevolent wraith whose touch saps your enemies' strength and whose form is nearly impervious to attack.\n@@\n{{暗影变形 Shadow Transformation}}\n!! 25级：高阶召唤邪术师盟友（阴暗契约） Greater Summon Warlock's Ally (Gloom)\n@@.indent\nThe sorrowsworn owe allegiance to no master except perhaps the Raven Queen. Chasing after the misery and suffering on which they feast, these creatures act as dark emissaries of the Shadowfell, exacting vengeance on mortals that have circumvented the natural order, or battling the sinister forces at large in their native plane. Though you lack the power to truly master the sorrowsworn, you can draw on your gloom pact to give you temporary command of such a creature, which aids you until dismissed or destroyed to be re-formed in the darkness.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[哀誓魔 Sorrowsworn]]\n@@\n{{哀誓魔 Sorrowsworn}}",
+    "fields": {
+      "created": "20220824024443222",
+      "creator": "Leon",
+      "modified": "20221116065759764",
+      "modifier": "Leon",
+      "source": "HoS"
+    },
+    "wiki": {
+      "transclusions": [
+        "皮开肉绽 Flesh Rend",
+        "精神剥离 Spirit Flay",
+        "黑暗爬行者 Dark Creeper",
+        "衰老诅咒 Curse of Age",
+        "黑暗祈祷 Dark Invocation",
+        "暗影变形 Shadow Transformation",
+        "哀誓魔 Sorrowsworn"
+      ],
+      "links": [
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "暗影集结 Convocation of Shadows"
+        },
+        {
+          "target": "皮开肉绽 Flesh Rend"
+        },
+        {
+          "target": "精神剥离 Spirit Flay"
+        },
+        {
+          "target": "暗影鞭笞 Shadow Scourge"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "黑暗爬行者 Dark Creeper"
+        },
+        {
+          "target": "暗影集结 Convocation of Shadows"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "哀誓魔 Sorrowsworn"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：阴暗契约奖励 Gloom Pact Reward",
+        "1级：阴暗契约之赐 Gloom Pact Boon",
+        "1级：阴暗契约武器 Gloom Pact Weapon",
+        "7级：阴暗契约武器惩戒 Gloom Pact Weapon Retribution",
+        "9级：召唤邪术师盟友（阴暗契约） Summon Warlock's Ally (Gloom)",
+        "11级：魔剑士行动（阴暗契约） Hexblade's Action (Gloom)",
+        "11级：阴暗契约面貌 Gloom Pact Aspect",
+        "11级：阴暗契约诅咒 Gloom Pact Curse",
+        "12级：阴暗契约祈祷 Gloom Pact Invocation",
+        "16级：进阶阴暗契约之赐 Improved Gloom Pact Boon",
+        "20级：阴暗契约变形 Gloom Pact Transformation",
+        "25级：高阶召唤邪术师盟友（阴暗契约） Greater Summon Warlock's Ally (Gloom)"
+      ]
+    }
+  },
+  {
+    "id": "阴暗契约 Gloom Pact (Binder)",
+    "name": "阴暗契约",
+    "nameEn": "Gloom Pact (Binder)",
+    "category": "pact",
+    "tags": [
+      "缚影师契约"
+    ],
+    "source": "HoS",
+    "sourceText": "@@.indent\nThe gloom pact of the warlock draws on the power of creatures that dwell forever in gloom and shadow. Such arcane entities can be found in vast numbers in the Shadowfell. The masters of the gloom pact remain effectively unknown, even to those who serve them. However, many binders who forge this pact believe that they channel the power of the dark lords trapped in the Shadowfell. Locked in their prisons, these dark lords are beyond concern for how their power is used—making them perfect partners for the arcane might a binder seeks.\n\nA good Dexterity score benefits a gloom pact warlock, since a subtle touch is necessary to properly command the power of void and shadow.\n\nAny warlock can choose to take powers of the gloom pact that have levels, but the magic of the binder is specifically suited to the pact. A binder gains additional benefit from certain gloom pact powers, as noted in the power's description.\n@@\n!! 1级：阴暗契约之赐（缚影师） Gloom Pact Boon (Binder)\n@@.indent\nYou have an aptitude for the shaping of shadow. The darkness that eddies around you on the battlefield responds to your command, carrying allies and enemies like dead leaves on the wind.\n\n''增益：''你获得[[回响挽歌 Echoing Dirge]]和[[暗影扭曲 Shadow Warp]]威能\n@@\n!! 1级：阴暗契约遭遇威能 Gloom Pact Encounter Power\n@@.indent\nLegends tell of a shadowy beast that dwells in the mist that borders and encases the domains of dread. The magic of the gloom pact gives this hound form and substance at your command, driving your foes from you in terror.\n@@\n{{暗兆猎犬 Hound of Dark Omen}}\n!! 3级：阴暗契约遭遇威能 Gloom Pact Encounter Power\n@@.indent\nYou call on the power of shadow to extend your reach across the battlefield, crafting a swarm of clawed hands that surround and tear into your foe.\n@@\n{{乌木之爪 Ebon Claws}}\n!! 4级：阴暗契约学识 Gloom Pact Lore\n@@.indent\nThe secrets of shadow open your eyes and protect your body against the power of death.\n\n''增益：''你获得黑暗视觉和5点暗蚀抗力。如果你已经有5点或更高的暗蚀抗力，则此抗力增加5点\n@@\n!! 7级：阴暗契约遭遇威能 Gloom Pact Encounter Power\n@@.indent\nThe dark energy of the Shadowfell spreads easily from a point of darkness you create. As your foe is stricken by the power of your spell, your other enemies are quickly drawn to share its suffering.\n@@\n{{黑暗棺罩 Pall of Darkness}}\n!! 9级：缚影师盟友（阴暗契约） Binder's Ally (Gloom)\n@@.indent\nA shadow lurk is a creature born of a sliver of gloom and given the barest level of sentience. It flutters like a ghost, shrouding you as it lashes out through armor, flesh, and bone to claw at the spirit and soul within its target.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[暗影潜伏者 Shadow Lurk]]\n@@\n{{暗影潜伏者 Shadow Lurk}}\n!! 11级：缚影师行动（阴暗契约） Binder's Action (Gloom)\n@@.indent\n''缚影大师典范之道特性''\n\nYour eyes become orbs of absolute darkness, allowing you to see the life energy flowing within your foes. With this sight, you can focus your attacks to increase your enemies' vulnerability.\n\n''增益：''当你花费一个行动点来使用攻击威能时，你对此攻击的每个目标获得战斗优势\n@@\n!! 11级：缚影师恩惠（阴暗契约） Binder's Favor (Gloom)\n@@.indent\n''缚影大师典范之道特性''\n\nWith a gesture, you can use the fleeting energy of echoing dirge to affect another enemy.\n\n''增益：''当你以你的[[回响挽歌 Echoing Dirge]]命中时，此冲击范围内一个额外的生物受到等同于你敏捷调整值的心灵伤害\n@@\n!! 11级：阴暗契约遭遇威能 Gloom Pact Encounter Power\n@@.indent\n''缚影大师典范之道特性''\n\nBy leaching the light from the battlefield, you create an impenetrable cloud of darkness within which whispering shades and lurking shadows feast upon your foes.\n@@\n{{暗夜潮汐 Tide of Night}}\n!! 13级：阴暗契约遭遇威能 Gloom Pact Encounter Power\n@@.indent\nYou turn a bit of coalesced shadow into a dread spectral beast that chills your foes to the bone.\n@@\n{{缠身暗影 Haunting Shadow}}\n!! 16级：缚影师之赐（阴暗契约） Binder's Boon (Gloom)\n@@.indent\n''缚影大师典范之道特性''\n\nThe shadows that dance around you in combat can render those who ride them capable of moving through solid objects.\n\n''增益：''当你使用你的[[暗影扭曲 Shadow Warp]]时，你可以滑动目标穿过敌人的空间和障碍地形。目标必须停在一个它可以正常占据的空间\n@@\n!! 17级：阴暗契约遭遇威能 Gloom Pact Encounter Power\n@@.indent\nMany spells of shadow focus on animating and controlling a single shadow, but devouring tide takes the opposite approach. Uncountable shards of shadowstuff are spawned at your command, each possessing the hunger of the void.\n@@\n{{吞噬潮汐 Devouring Tide}}\n!! 23级：阴暗契约遭遇威能 Gloom Pact Encounter Power\n@@.indent\nLight and shadow destroy each other where they touch. By imbuing the power of darkness and radiance into your foe, you let the energy of that destruction consume it from the inside out.\n@@\n{{暗耀光辉 Umbral Radiance}}\n!! 25级：高阶缚影师盟友（阴暗契约） Greater Binder's Ally (Gloom)\n@@.indent\nA gloom beast resembles an enormous hunting cat whose yellow eyes glare out from swirling, smoky darkness. Like a displacer beast, it has two whiplike tentacles emerging from its back, which attack with stinging cold that spreads numbness throughout the body.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个[[阴暗凶兽 Gloom Beast]]\n@@\n{{阴暗凶兽 Gloom Beast}}\n!! 27级：阴暗契约遭遇威能 Gloom Pact Encounter Power\n@@.indent\nAs your command of shadow magic reaches its heights, you create a portal into a distant region of the Shadowfell. Lashing out at an enemy, you banish it from the battle for a key moment, even as its shadowy afterimage flails in rage and pain.\n@@\n{{幽暗置换 Umbral Swap}}",
+    "fields": {
+      "created": "20220831084657294",
+      "creator": "Leon",
+      "modified": "20221116082446100",
+      "modifier": "Leon",
+      "source": "HoS"
+    },
+    "wiki": {
+      "transclusions": [
+        "暗兆猎犬 Hound of Dark Omen",
+        "乌木之爪 Ebon Claws",
+        "黑暗棺罩 Pall of Darkness",
+        "暗影潜伏者 Shadow Lurk",
+        "暗夜潮汐 Tide of Night",
+        "缠身暗影 Haunting Shadow",
+        "吞噬潮汐 Devouring Tide",
+        "暗耀光辉 Umbral Radiance",
+        "阴暗凶兽 Gloom Beast",
+        "幽暗置换 Umbral Swap"
+      ],
+      "links": [
+        {
+          "target": "回响挽歌 Echoing Dirge"
+        },
+        {
+          "target": "暗影扭曲 Shadow Warp"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "暗影潜伏者 Shadow Lurk"
+        },
+        {
+          "target": "回响挽歌 Echoing Dirge"
+        },
+        {
+          "target": "暗影扭曲 Shadow Warp"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "阴暗凶兽 Gloom Beast"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：阴暗契约之赐（缚影师） Gloom Pact Boon (Binder)",
+        "1级：阴暗契约遭遇威能 Gloom Pact Encounter Power",
+        "3级：阴暗契约遭遇威能 Gloom Pact Encounter Power",
+        "4级：阴暗契约学识 Gloom Pact Lore",
+        "7级：阴暗契约遭遇威能 Gloom Pact Encounter Power",
+        "9级：缚影师盟友（阴暗契约） Binder's Ally (Gloom)",
+        "11级：缚影师行动（阴暗契约） Binder's Action (Gloom)",
+        "11级：缚影师恩惠（阴暗契约） Binder's Favor (Gloom)",
+        "11级：阴暗契约遭遇威能 Gloom Pact Encounter Power",
+        "13级：阴暗契约遭遇威能 Gloom Pact Encounter Power",
+        "16级：缚影师之赐（阴暗契约） Binder's Boon (Gloom)",
+        "17级：阴暗契约遭遇威能 Gloom Pact Encounter Power",
+        "23级：阴暗契约遭遇威能 Gloom Pact Encounter Power",
+        "25级：高阶缚影师盟友（阴暗契约） Greater Binder's Ally (Gloom)",
+        "27级：阴暗契约遭遇威能 Gloom Pact Encounter Power"
+      ]
+    }
+  },
+  {
+    "id": "元素契约 Elemental Pact",
+    "name": "元素契约",
+    "nameEn": "Elemental Pact",
+    "category": "pact",
+    "tags": [
+      "魔剑士契约"
+    ],
+    "source": "HoEC",
+    "sourceText": "@@.indent\nYour pact is an unusual one, since you might have made it with unwilling or unaware primordial partners. Inviting elemental power into your soul affects a subtle transformation that gives you access to elemental magic's raw, destructive potential. You venture into the wider world as a champion of destruction, a force for upheaval, armed with the power of chaos.\n@@\n!! 1级：元素契约奖励 Elemental Pact Reward\n@@.indent\nYour primordial connections keep you supplied with elemental power that you can release through your magical attacks.\n\n''增益：''你获得鳞甲擅长。另外，你在你的邪术师攻击威能和邪术师典范之道攻击威能的伤害骰上获得等同于你体质调整值的加值。5级时，此加值为2 + 你体质调整值；15级时，此加值为4 + 你体质调整值；25级时，此加值为6 + 你体质调整值。\n\n9级时，你以[[召唤邪术师盟友 Summon Warlock's Ally]]召唤的生物也在伤害骰上获得此加值\n@@\n!! 1级：元素契约之赐 Elemental Pact Boon\n@@.indent\nSouls wriggling free from those slain on the battlefield excite the chaos flowing from your pact. Elemental energy rushes out and protects you from harm. The fading life force enables you to become a creature of chaos, if only for a few moments.\n\n''增益：''你获得[[混沌守护 Warding Chaos]]威能\n@@\n!! 1级：元素契约武器 Elemental Pact Weapon\n@@.indent\nThe original blade of chaos was forged from a broken piece of panoply belonging to Miska the Wolf-Spider that was lost when the fabled Wind Dukes of Aqaa defeated him. A fouled bit of steel, nearly overlooked as mere debris, it contained a fragment of the primordial's essence. Other blades of this sort have been crafted over the years, each one channeling raw, chaotic force and enabling the wielder to turn it to advantage.\n\nA curved chopping sword with a single serrated edge, a blade of chaos is a physical manifestation of a warlock's elemental pact. Although it appears heavy and unwieldy, the blade is easily wielded in one hand. One can feel elemental power roiling in the steel, as if the weapon were alive.\n\nThe blade's bearer can call forth its wrath with two powers born in chaos. Unraveling strike breaks down a creature's natural resistances to elemental magic, and elemental wrath releases a flood of destructive energy in whatever form the wielder chooses, to blast a foe and destroy anyone else who comes too close.\n@@\n<div id=powercard>\n<div class=powercardborder>\n<div class=powercardatwill style=\"background-color: #D9941C\"><span class=powername>混沌之刃 Blade of Chaos</span><span class=powerlvl>邪术师装备</span></div>\n<div class=powerexplains>This large, curved blade has a single serrated edge.</div>\n<table class=details>\n  <tbody>\n  <tr>\n    <th>武器分类：</th>\n    <td>单手军用近战武器</td></tr>\n  <tr>\n    <th>武器组：</th>\n    <td>重刃</td></tr>\n  <tr>\n    <th>擅长加值：</th>\n    <td>+3</td></tr>\n  <tr>\n    <th>伤害：</th>\n    <td>2d4</td></tr>\n  <tr>\n    <th>武器特性：</th>\n    <td>高重击</td></tr></tbody></table></div></div>\n\n{{拆解打击 Unraveling Strike}}\n{{元素怒火 Elemental Wrath}}\n!! 7级：元素契约武器惩戒 Elemental Pact Weapon Retribution\n@@.indent\nEnemies realize their error in attacking you when you instantly blast their thoughts with a psychic scream fueled by the chaos residing in your serrated blade.\n\n''增益：''你获得[[元素咆哮 Elemental Roar]]威能\n@@\n!! 9级：召唤邪术师盟友（元素契约） Summon Warlock's Ally (Elemental)\n@@.indent\nThe archons first appeared during the Dawn War as an answer to the angelic legions making up the gods' armies. Forged in vast numbers from elemental materials, the archons had keen intellects and an abiding hatred for their immortal foes. You can call upon an archon to aid you in battle. Although the archon has little reason to aid you, the blade you bear bends it to your will, and thus the archon fights at your side.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个亚空士兵。当你使用此威能时，掷一个d4来决定你召唤的亚空士兵类型：1，气系；2，土系；3，火系；4，水系\n@@\n{{气系亚空士兵 Air Archon Grunt}}\n{{土系亚空士兵 Earth Archon Grunt}}\n{{火系亚空士兵 Fire Archon Grunt}}\n{{水系亚空士兵 Water Archon Grunt}}\n!! 11级：魔剑士行动（元素契约） Hexblade's Action (Elemental)\n@@.indent\n''传说魔剑士典范之道特性''\n\nYou can draw more sustenance from your pact when you need to push past your normal limits. When you do so, elemental essence alters your form to make it more resilient and flexible.\n\n''增益：''当你花费一个行动点进行额外动作时，你获得等同于你一半等级的临时生命值。直到你下一回合结束，你的近战武器攻击触及范围增加1\n@@\n!! 11级：元素契约面貌 Elemental Pact Aspect\n@@.indent\n''传说魔剑士典范之道特性''\n\nMagic that originates in the Elemental Chaos can protect you from the plane's destructive energy and help you withstand the rigors of hostile environments.\n\n''增益：''你在坚韧检定上获得+2加值。在每次长休息结束时，选择强酸，寒冰，火焰，闪电或雷鸣。你获得对此选择的伤害类型的10点抗力，直到你下一次长休息结束。21级时，此抗力值为15。\n@@\n!! 11级：元素契约诅咒 Elemental Pact Curse\n@@.indent\n''传说魔剑士典范之道特性''\n\nAlthough your primordial benefactors might not always be aware of your service, to ensure a steady supply of magical energy you must reinforce your pact with souls harvested from the enemies you defeat. The chaotic mind curse spell unhinges an enemy's mind to make the creature into an unwitting accomplice in creating carnage.\n@@\n{{混乱精神诅咒 Chaotic Mind Curse}}\n!! 12级：元素契约祈祷 Elemental Pact Invocation\n@@.indent\n''传说魔剑士典范之道特性''\n\nChaos surges into you when you call on your distant source for assistance. Unpredictable and potentially dangerous, the primordials' boon might either protect you from magical attacks or subject to you even greater injury.\n@@\n{{元素祈祷 Elemental Invocation}}\n!! 16级：进阶元素契约之赐 Improved Elemental Pact Boon\n@@.indent\n''传说魔剑士典范之道特性''\n\nEach enemy slain feeds power to the primordials. In exchange, they take notice of you and reward your efforts with a surge of elemental energy.\n\n''增益：''当你使用[[混沌守护 Warding Chaos]]时，在你下一回合结束前，你下一次近战武器攻击造成等同于你体质调整值的额外伤害。当你进行此攻击时，选择强酸，寒冰，火焰，闪电或雷鸣作为此额外伤害的类型。\n@@\n!! 20级：元素契约变形 Elemental Pact Transformation\n@@.indent\n''传说魔剑士典范之道特性''\n\nThe chaos flowing into you triggers a drastic transformation. You become an elemental monstrosity, a living storm of destructive energy that shifts and changes with each attack you make. Your form protects you from those same chaotic forces.\n@@\n{{元素变形 Elemental Transformation}}\n!! 25级：高阶召唤邪术师盟友（元素契约） Greater Summon Warlock's Ally (Elemental)\n@@.indent\nThe primordials' firstborn, the titans witnessed and aided in the world's creation. Each titan is a vast being armed with elemental power reflecting its maker's nature and temperament. Hate drives these creatures, and they rule as petty tyrants over domains populated by giants and lesser creatures. Not even you, with all your magical power, can compel these creatures to serve you, so when you summon a titan, you are calling forth a mere fragment of its essence in whatever elemental substance is at hand.\n\n''增益：''你能使用[[召唤邪术师盟友 Summon Warlock's Ally]]召唤一个泰坦战士。当你使用此威能时，掷一个d4来决定你召唤的泰坦战士类型：1，风暴；2，土系；3，火系；4，寒霜\n@@\n{{风暴泰坦战士 Storm Titan Warrior}}\n{{土系泰坦战士 Earth Titan Warrior}}\n{{火系泰坦战士 Fire Titan Warrior}}\n{{寒霜泰坦战士 Frost Titan Warrior}}",
+    "fields": {
+      "created": "20220824030646074",
+      "creator": "Leon",
+      "modified": "20221116070412066",
+      "modifier": "Leon",
+      "source": "HoEC"
+    },
+    "wiki": {
+      "transclusions": [
+        "拆解打击 Unraveling Strike",
+        "元素怒火 Elemental Wrath",
+        "气系亚空士兵 Air Archon Grunt",
+        "土系亚空士兵 Earth Archon Grunt",
+        "火系亚空士兵 Fire Archon Grunt",
+        "水系亚空士兵 Water Archon Grunt",
+        "混乱精神诅咒 Chaotic Mind Curse",
+        "元素祈祷 Elemental Invocation",
+        "元素变形 Elemental Transformation",
+        "风暴泰坦战士 Storm Titan Warrior",
+        "土系泰坦战士 Earth Titan Warrior",
+        "火系泰坦战士 Fire Titan Warrior",
+        "寒霜泰坦战士 Frost Titan Warrior"
+      ],
+      "links": [
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "混沌守护 Warding Chaos"
+        },
+        {
+          "target": "元素咆哮 Elemental Roar"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        },
+        {
+          "target": "混沌守护 Warding Chaos"
+        },
+        {
+          "target": "召唤邪术师盟友 Summon Warlock's Ally"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：元素契约奖励 Elemental Pact Reward",
+        "1级：元素契约之赐 Elemental Pact Boon",
+        "1级：元素契约武器 Elemental Pact Weapon",
+        "7级：元素契约武器惩戒 Elemental Pact Weapon Retribution",
+        "9级：召唤邪术师盟友（元素契约） Summon Warlock's Ally (Elemental)",
+        "11级：魔剑士行动（元素契约） Hexblade's Action (Elemental)",
+        "11级：元素契约面貌 Elemental Pact Aspect",
+        "11级：元素契约诅咒 Elemental Pact Curse",
+        "12级：元素契约祈祷 Elemental Pact Invocation",
+        "16级：进阶元素契约之赐 Improved Elemental Pact Boon",
+        "20级：元素契约变形 Elemental Pact Transformation",
+        "25级：高阶召唤邪术师盟友（元素契约） Greater Summon Warlock's Ally (Elemental)"
+      ]
+    }
+  }
+]

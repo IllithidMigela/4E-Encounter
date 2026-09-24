@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-08T09:43:26.855Z",
+  "total": 16031,
+  "categories": {
+    "bloodline": {
+      "count": 2,
+      "file": "categories/bloodline.json"
+    },
+    "class": {
+      "count": 77,
+      "file": "categories/class.json"
+    },
+    "creature": {
+      "count": 205,
+      "file": "categories/creature.json"
+    },
+    "dictionary": {
+      "count": 1,
+      "file": "categories/dictionary.json"
+    },
+    "domain": {
+      "count": 9,
+      "file": "categories/domain.json"
+    },
+    "epic-destiny": {
+      "count": 115,
+      "file": "categories/epic-destiny.json"
+    },
+    "equipment": {
+      "count": 2603,
+      "file": "categories/equipment.json"
+    },
+    "feat": {
+      "count": 3202,
+      "file": "categories/feat.json"
+    },
+    "item-set": {
+      "count": 38,
+      "file": "categories/item-set.json"
+    },
+    "magic-school": {
+      "count": 6,
+      "file": "categories/magic-school.json"
+    },
+    "nav": {
+      "count": 38,
+      "file": "categories/nav.json"
+    },
+    "pact": {
+      "count": 8,
+      "file": "categories/pact.json"
+    },
+    "paragon-path": {
+      "count": 577,
+      "file": "categories/paragon-path.json"
+    },
+    "power": {
+      "count": 8903,
+      "file": "categories/power.json"
+    },
+    "race": {
+      "count": 54,
+      "file": "categories/race.json"
+    },
+    "reference": {
+      "count": 38,
+      "file": "categories/reference.json"
+    },
+    "ritual": {
+      "count": 162,
+      "file": "categories/ritual.json"
+    },
+    "theme": {
+      "count": 27,
+      "file": "categories/theme.json"
+    },
+    "vice": {
+      "count": 2,
+      "file": "categories/vice.json"
+    },
+    "virtue": {
+      "count": 2,
+      "file": "categories/virtue.json"
+    }
+  }
+}

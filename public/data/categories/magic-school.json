@@ -1,0 +1,218 @@
+[
+  {
+    "id": "幻术学派 Illusion School",
+    "name": "幻术学派",
+    "nameEn": "Illusion School",
+    "category": "magic-school",
+    "tags": [
+      "魔法学派"
+    ],
+    "source": "HoFL",
+    "sourceText": "@@.indent\nSpells of the illusion school deceive the mind and confuse the senses. A master of illusion uses arcane magic to build on a natural talent for trickery, and knows that the timing of an illusion is often as important as its power.\n@@\n!! 1级：幻术学徒 Illusion Apprentice\n@@.indent\n''学徒级学派法师特性''\n\nAny mage can make use of illusion magic, but your specific focus lends potency to the spells you cast. A creature caught up in your illusion remains rattled even after the magic is done, unable to focus past its terror or confusion as it makes its counterattack.\n\n''增益：''当你以一个奥术幻术威能命中一个目标时，在你下一回合结束前此目标在它下一次对你的攻击骰上受到-2减值\n@@\n!! 5级：幻术专家 Illusion Expert\n@@.indent\n''专家级学派法师特性''\n\nAs a specialist in illusion magic, you subtly channel the power of your art to cloak your own movements and intentions.\n\n''增益：''你在唬骗检定和隐秘检定上获得+2加值\n@@\n!! 10级：幻术大师 Illusion Master\n@@.indent\n''大师级学派法师特性''\n\nAs you near the end of the heroic tier, your illusions take on a deadly realism that rattles your foes. Even an enemy that sees through your deception is wracked by doubt and fear that ruins its defenses for a critical moment.\n\n''增益：''当你的一个奥术幻术威能对一个目标命中或失手时，在你下回合结束前，目标给下一次对它进行的攻击提供战斗优势。\n@@\n!! 11级：幻术行动 Illusion Action\n@@.indent\n''高深学派法师典范之道特性''\n\nThose who dismiss illusion magic for its ephemeral quality fail to understand the very real strength it lends you. When you push yourself past your limits, a shroud of light and shadow protects you from your enemies' attacks.\n\n''增益：''当你花费一个行动点进行额外动作时，你在AC和反射上获得等同于你感知调整值的威能加值，直到你下一回合结束\n@@\n!! 11级：幻术遭遇威能 Illusion Encounter Power\n@@.indent\n''高深学派法师典范之道特性''\n\nThe legendary wizard Nolzur was obsessed with formulating illusion spells capable of creating tangible effects and objects that would persist in the real world. This spell was the first step in his research, channeling illusion magic to recreate the eff ects of other spells.\n@@\n{{诺尔祖之影法术 Nolzur's Shade Spell}}\n!! 12级：幻术辅助威能 Illusion Utility Power\n@@.indent\n''高深学派法师典范之道特性''\n\nThe power of divine magic to mend wounds and banish disease fascinated Nolzur. He created this spell in an attempt to prove that his arcane illusions could mimic even the most potent effects of other magic, creating a useful alternative to the healing of other classes.\n@@\n{{诺尔祖之虚幻活力术 Nolzur's Phantom Vigor}}\n!! 20级：幻术每日威能 Illusion Daily Power\n@@.indent\n''高深学派法师典范之道特性''\n\nNolzur eventually found other challenges to distract him from his quest to duplicate magic of any sort using the power of illusion. However, this spell confirms the lasting legacy of that research, and is the most potent part of many an illusion mage's spell arsenal.\n@@\n{{诺尔祖之幻影法术 Nolzur's Phantom Spell}}",
+    "fields": {
+      "created": "20220811032436348",
+      "creator": "Leon",
+      "modified": "20221116011458384",
+      "modifier": "Leon",
+      "source": "HoFL"
+    },
+    "wiki": {
+      "transclusions": [
+        "诺尔祖之影法术 Nolzur's Shade Spell",
+        "诺尔祖之虚幻活力术 Nolzur's Phantom Vigor",
+        "诺尔祖之幻影法术 Nolzur's Phantom Spell"
+      ],
+      "links": [],
+      "macros": [],
+      "headings": [
+        "1级：幻术学徒 Illusion Apprentice",
+        "5级：幻术专家 Illusion Expert",
+        "10级：幻术大师 Illusion Master",
+        "11级：幻术行动 Illusion Action",
+        "11级：幻术遭遇威能 Illusion Encounter Power",
+        "12级：幻术辅助威能 Illusion Utility Power",
+        "20级：幻术每日威能 Illusion Daily Power"
+      ]
+    }
+  },
+  {
+    "id": "惑控学派 Enchantment School",
+    "name": "惑控学派",
+    "nameEn": "Enchantment School",
+    "category": "magic-school",
+    "tags": [
+      "魔法学派"
+    ],
+    "source": "HoFL",
+    "sourceText": "@@.indent\nThe enchantment school of magic centers on the study of charms and other spells that change a creature's attitudes and perceptions. Specialization in enchantment magic allows you to exercise powerful and precise control over your enemies, even to the point where they attack with a fanatic's fury at your command.\n@@\n!! 1级：惑控学徒 Enchantment Apprentice\n@@.indent\n''学徒级学派法师特性''\n\nBy focusing on the study of enchantment magic, you learn to achieve more control over your enemies.\n\n''增益：''当你的一个奥术惑控威能允许你拉近、推离、滑动一个生物时，此被迫移动的最大距离增加2格\n@@\n!! 5级：惑控专家 Enchantment Expert\n@@.indent\n''专家级学派法师特性''\n\nYour study of enchantment gives you the ability to inflect your words with magic, enhancing your powers of persuasion.\n\n''增益：''你在唬骗检定和交涉检定上获得+2加值\n@@\n!! 10级：惑控大师 Enchantment Master\n@@.indent\n''大师级学派法师特性''\n\nAs you master the initial secrets of enchantment magic, you learn to invoke a deadly rage in the minds you manipulate.\n\n''增益：''当你的一个奥术惑控威能迫使一个生物进行一次攻击时，此生物在此攻击骰上获得+2加值\n@@\n!! 11级：惑控行动 Enchantment Action\n@@.indent\n''高深学派法师典范之道特性''\n\nWhen you push yourself beyond your normal limits, the magic of the Feywild swirls around you. Your enemies become caught in a web of enchantment for a brief moment, causing them to stumble and move as if in a dream.\n\n''增益：''当你花费一个行动点进行额外动作时，你滑动离你2格内的每个敌人最多等同于你魅力调整值的格数\n@@\n!! 11级：惑控遭遇威能 Enchantment Encounter Power\n@@.indent\n''高深学派法师典范之道特性''\n\nThe legendary wizard Otto made a career of melding music and arcane spellcraft. This spell creates a discordant tune that echoes through a victim's mind, forcing it to do your bidding. Moreover, even after your control is broken, the victim is unable to fully react—a prime target for you and your allies.\n@@\n{{奥托之扭曲术 Otto's Twisting Tune}}\n!! 12级：惑控辅助威能 Enchantment Utility Power\n@@.indent\n''高深学派法师典范之道特性''\n\nOtto was a thoroughly capricious individual, and he was not above making friends and new allies with the help of this signature spell. More than one of Otto's many apprentices recalls being suddenly inspired to undertake some mischievous (though rarely dangerous) task on the wizard's behalf.\n@@\n{{奥托之忠诚歌唱术 Otto's Song of Fidelity}}\n!! 20级：惑控每日威能 Enchantment Daily Power\n@@.indent\n''高深学派法师典范之道特性''\n\nOtto found that certain strains of music consistently inspired a physical response. This spell builds on that principle, creating a wave of dominating magic that inevitably crumbles a victim's resolve. Each time a creature shrugs off your attempt to control it, your song of command becomes more insistent in response.\n@@\n{{奥托之绝对命令术 Otto's Inevitable Command}}",
+    "fields": {
+      "created": "20220811031352486",
+      "creator": "Leon",
+      "modified": "20221116010030120",
+      "modifier": "Leon",
+      "source": "HoFL"
+    },
+    "wiki": {
+      "transclusions": [
+        "奥托之扭曲术 Otto's Twisting Tune",
+        "奥托之忠诚歌唱术 Otto's Song of Fidelity",
+        "奥托之绝对命令术 Otto's Inevitable Command"
+      ],
+      "links": [],
+      "macros": [],
+      "headings": [
+        "1级：惑控学徒 Enchantment Apprentice",
+        "5级：惑控专家 Enchantment Expert",
+        "10级：惑控大师 Enchantment Master",
+        "11级：惑控行动 Enchantment Action",
+        "11级：惑控遭遇威能 Enchantment Encounter Power",
+        "12级：惑控辅助威能 Enchantment Utility Power",
+        "20级：惑控每日威能 Enchantment Daily Power"
+      ]
+    }
+  },
+  {
+    "id": "死灵学派 Necromancy School",
+    "name": "死灵学派",
+    "nameEn": "Necromancy School",
+    "category": "magic-school",
+    "tags": [
+      "魔法学派"
+    ],
+    "source": "HoS",
+    "sourceText": "@@.indent\nAn ancient and reviled art, necromancy focuses on the ties between the body, soul, and animating spirit. Your spells can animate the dead, creating thralls to fight on your behalf; despoil an enemy's flesh with rot; or snuff out life with a whisper. Necromancy is a fearsome and grotesque pursuit, and only those of strong will and unwavering commitment can master its magic.\n@@\n!! 1级：死灵学徒 Necromancy Apprentice\n@@.indent\n''学徒级学派法师特性''\n\nDeath stalks your enemies and grants false life to you. You gain a short-lived resilience when you strike.\n\n''增益：''当你以一个奥术死灵攻击威能命中至少一个目标时，你获得2点临时生命值\n@@\n!! 5级：死灵专家 Necromancy Expert\n@@.indent\n''专家级学派法师特性''\n\nExtensive study into necromantic lore rewards you with unnatural vitality. You boast strength and endurance odd for someone of such sickly pallor or gaunt frame.\n\n''增益：''你在运动检定和坚韧检定上获得+2加值\n@@\n!! 10级：死灵大师 Necromancy Master\n@@.indent\n''大师级学派法师特性''\n\nYour concentration on necromantic power increases the potency of your necrotic attacks. They bite deeply, ignoring attempts to blunt them.\n\n''增益：''你的奥术死灵攻击威能无视暗蚀抗力\n@@\n!! 11级：死灵行动 Necromancy Action\n@@.indent\n''高深学派法师典范之道特性''\n\nYour focus on necromancy spells lets you loose necrotic energy that unravels your foes' defenses.\n\n''增益：''当你花费一个行动点进行额外动作时，每个邻近你的敌人获得等同于你感知调整值的暗蚀易伤。如果敌人已有暗蚀易伤，则改为它被推离最多等同于你感知调整值的格子\n@@\n!! 11级：死灵遭遇威能 Necromancy Encounter Power\n@@.indent\n''高深学派法师典范之道特性''\n\nAuthor of many sinister necromantic tomes, Nulathoe had no compunctions against using corpses as undead thralls and then annihilating them in an arcane burst when they fell.\n@@\n{{努拉泽尔之震荡死亡术 Nulathoe's Concussive Demise}}\n!! 12级：死灵辅助威能 Necromancy Utility Power\n@@.indent\n''高深学派法师典范之道特性''\n\nA famed spell noted for preserving the dead from decay, Nulathoe's death ward girds creatures against eternity's cruel caress.\n@@\n{{努拉泽尔之死亡防护术 Nulathoe's Death Ward}}\n!! 20级：死灵每日威能 Necromancy Daily Power\n@@.indent\n''高深学派法师典范之道特性''\n\nWith a single command, Nulathoe could draw forth the dead to swell the ranks of his vile army.\n@@\n{{努拉泽尔之不死军队术 Nulathoe's Undead Army}}",
+    "fields": {
+      "created": "20220811032735584",
+      "creator": "Leon",
+      "modified": "20221116013930392",
+      "modifier": "Leon",
+      "source": "HoS"
+    },
+    "wiki": {
+      "transclusions": [
+        "努拉泽尔之震荡死亡术 Nulathoe's Concussive Demise",
+        "努拉泽尔之死亡防护术 Nulathoe's Death Ward",
+        "努拉泽尔之不死军队术 Nulathoe's Undead Army"
+      ],
+      "links": [],
+      "macros": [],
+      "headings": [
+        "1级：死灵学徒 Necromancy Apprentice",
+        "5级：死灵专家 Necromancy Expert",
+        "10级：死灵大师 Necromancy Master",
+        "11级：死灵行动 Necromancy Action",
+        "11级：死灵遭遇威能 Necromancy Encounter Power",
+        "12级：死灵辅助威能 Necromancy Utility Power",
+        "20级：死灵每日威能 Necromancy Daily Power"
+      ]
+    }
+  },
+  {
+    "id": "塑能学派 Evocation School",
+    "name": "塑能学派",
+    "nameEn": "Evocation School",
+    "category": "magic-school",
+    "tags": [
+      "魔法学派"
+    ],
+    "source": "HoFL",
+    "sourceText": "@@.indent\nThe evocation school of magic focuses on the most destructive expressions of arcane energy.\n@@\n!! 1级：塑能学徒 Evocation Apprentice\n@@.indent\n''学徒级学派法师特性''\n\nAny mage can cast evocation spells to wield unmatched power on the battlefield. However, as a specialized apprentice, you learn how to wring all possible destructive power from your attacks.\n\n''增益：''当你为一个奥术塑能威能掷伤害骰时，若任何骰子的结果为1，则选择其中一个重掷，并使用新结果\n@@\n!! 5级：塑能专家 Evocation Expert\n@@.indent\n''专家级学派法师特性''\n\nThe destructive power of your magic imbues you with an intensity that your enemies can sense. At the same time, your focus on the raw power of evocation enhances your stamina, making you tougher than those foes would ever suspect.\n\n''增益：''你在坚韧检定和威吓检定上获得+2加值\n@@\n!! 10级：塑能大师 Evocation Master\n@@.indent\n''大师级学派法师特性''\n\nThroughout the heroic tier, you have honed and shaped your mastery of evocation magic in battle after battle. Now, the energy imbued within your spells can overcome the defenses of even the most formidable foes.\n\n''增益：''当你使用一个奥术塑能威能造成一种或多种特定类型的伤害时，你无视一个目标的相应类型的抗力。你不能无视免疫\n@@\n!! 11级：塑能行动 Evocation Action\n@@.indent\n''高深学派法师典范之道特性''\n\nYour mastery of evocation magic draws on barely controlled reserves of arcane energy. When you push yourself in combat, this energy flares to imbue your evocation spells with even deadlier power.\n\n''增益：''当你花费一个行动点进行额外动作时，你在此回合内下一个法师塑能威能的伤害骰上获得等同于你体质调整值的威能加值\n@@\n!! 11级：塑能遭遇威能 Evocation Encounter Power\n@@.indent\n''高深学派法师典范之道特性''\n\nThe wizard Kelgore's arcane knowledge was matched only by his unbounded rages. This spell is said to be the product of one such fit (prompted by a troublesome fey intent on teleporting away with Kelgore's spellbooks). Like magic missile, this spell hits with perfect accuracy, and it is favored by those who know they won't have the chance for a second shot.\n@@\n{{凯尔格之绝对火焰术 Kelgore's Undeniable Fire}}\n!! 12级：塑能辅助威能 Evocation Utility Power\n@@.indent\n''高深学派法师典范之道特性''\n\nKelgore was a frail, scrawny specimen, making his fi ts of anger all the more comical. Disdainful of physical strength, he created this spell to trade vitality for pure arcane might.\n@@\n{{凯尔格之力量源泉术 Kelgore's Well of Power}}\n!! 20级：塑能每日威能 Evocation Daily Power\n@@.indent\n''高深学派法师典范之道特性''\n\nWhen Kelgore's wrath reached its peak, it touched off a rage that endured even after his most powerful spells were exhausted. In the aftermath, the foul-tempered wizard developed this spell, determined to unleash destruction that would last as long as his fury.\n@@\n{{凯尔格之火雨术 Kelgore's Rain of Fire}}",
+    "fields": {
+      "created": "20220811032158194",
+      "creator": "Leon",
+      "modified": "20221116011103663",
+      "modifier": "Leon",
+      "source": "HoFL"
+    },
+    "wiki": {
+      "transclusions": [
+        "凯尔格之绝对火焰术 Kelgore's Undeniable Fire",
+        "凯尔格之力量源泉术 Kelgore's Well of Power",
+        "凯尔格之火雨术 Kelgore's Rain of Fire"
+      ],
+      "links": [],
+      "macros": [],
+      "headings": [
+        "1级：塑能学徒 Evocation Apprentice",
+        "5级：塑能专家 Evocation Expert",
+        "10级：塑能大师 Evocation Master",
+        "11级：塑能行动 Evocation Action",
+        "11级：塑能遭遇威能 Evocation Encounter Power",
+        "12级：塑能辅助威能 Evocation Utility Power",
+        "20级：塑能每日威能 Evocation Daily Power"
+      ]
+    }
+  },
+  {
+    "id": "幽影学派 Nethermancy School",
+    "name": "幽影学派",
+    "nameEn": "Nethermancy School",
+    "category": "magic-school",
+    "tags": [
+      "魔法学派"
+    ],
+    "source": "HoS",
+    "sourceText": "@@.indent\nOriginating from the work of renegade wizards who were exiled to the Shadowfell, nethermancy spells extract shadow magic from the environment and blend it with arcane energy. They can create impenetrable darkness, spark terror in your enemies, and form horrific monsters from shadowstuff.\n@@\n!! 1级：幽影学徒 Nethermancy Apprentice\n@@.indent\n''学徒级学派法师特性''\n\nDarkness serves at your command. Your spells fog your enemies' senses with shadow.\n\n''增益：''被你的奥术幽影攻击威能命中的生物，视离它超过2格远的敌人为拥有隐蔽直到你下一回合结束\n@@\n!! 5级：幽影专家 Nethermancy Expert\n@@.indent\n''专家级学派法师特性''\n\nShadows crawl and writhe around you, forming a shifting tapestry of grotesque shapes. These shadows mask your presence and give you an edge when facing down a foe.\n\n''增益：''你在威吓检定和隐秘检定上获得+2加值\n@@\n!! 10级：幽影大师 Nethermancy Master\n@@.indent\n''大师级学派法师特性''\n\nDarkness sustains you, granting your spells greater potency when you are in shadows.\n\n''增益：''当你对一个生物有任何隐蔽时，你对它获得战斗优势\n@@\n!! 11级：幽影行动 Nethermancy Action\n@@.indent\n''高深学派法师典范之道特性''\n\nYour aspect changes to something monstrous, a transformation made possible through your extensive familiarity with nethermancy's secrets.\n\n''增益：''当你花费一个行动点进行额外动作时，你的空间和每个邻近你的格子形成一个黑暗区域，此区域持续到你下一回合开始。此区域对除你以外的生物是完全障目\n@@\n!! 11级：幽影遭遇威能 Nethermancy Encounter Power\n@@.indent\n''高深学派法师典范之道特性''\n\nThe archmage Evard mastered the Shadowfell's secrets, drawing forth its rich magic and bending it to his will. His preoccupation with such dark pursuits affected him profoundly, as is evident from the spells he left for those who would follow his path.\n@@\n{{埃瓦德之扭曲黑暗术 Evard's Wrenching Darkness}}\n!! 12级：幽影辅助威能 Nethermancy Utility Power\n@@.indent\n''高深学派法师典范之道特性''\n\nEvard had few friends, largely because he regarded others as inferior. Evard's all-seeing worm is but one example of how he exploited his companions.\n@@\n{{埃瓦德之全视蠕虫 Evard's All-Seeing Worm}}\n!! 20级：幽影每日威能 Nethermancy Daily Power\n@@.indent\n''高深学派法师典范之道特性''\n\nEvard is best known for drawing twisted monsters infused with dark energy from the Shadowfell. Spells such as Evard's black tentacles and Evard's dreadful mist suggest what the dark wizard was after. Evard's black gate comes nearest to realizing the secrets that Evard sought, for it creates a portal to the Shadowdark's depths, where aberrant mutants mingle with shadowborn abominations. Those who pass through the gate rarely emerge intact or sane.\n@@\n{{埃瓦德之黑暗大门 Evard's Black Gate}}",
+    "fields": {
+      "created": "20220811032938425",
+      "creator": "Leon",
+      "modified": "20221116014309984",
+      "modifier": "Leon",
+      "source": "HoS"
+    },
+    "wiki": {
+      "transclusions": [
+        "埃瓦德之扭曲黑暗术 Evard's Wrenching Darkness",
+        "埃瓦德之全视蠕虫 Evard's All-Seeing Worm",
+        "埃瓦德之黑暗大门 Evard's Black Gate"
+      ],
+      "links": [],
+      "macros": [],
+      "headings": [
+        "1级：幽影学徒 Nethermancy Apprentice",
+        "5级：幽影专家 Nethermancy Expert",
+        "10级：幽影大师 Nethermancy Master",
+        "11级：幽影行动 Nethermancy Action",
+        "11级：幽影遭遇威能 Nethermancy Encounter Power",
+        "12级：幽影辅助威能 Nethermancy Utility Power",
+        "20级：幽影每日威能 Nethermancy Daily Power"
+      ]
+    }
+  },
+  {
+    "id": "占火学派 Pyromancy School",
+    "name": "占火学派",
+    "nameEn": "Pyromancy School",
+    "category": "magic-school",
+    "tags": [
+      "魔法学派"
+    ],
+    "source": "Dragon",
+    "sourceText": "!! 1级：占火学徒 Pyromancy Apprentice\n@@.indent\n''学徒级学派法师特性''\n\nFire roars through your soul just as it courses through your magic. The fire you tap in to burns hotter than any source found in the world or even on the planes.\n\n''增益：''你在奥术火焰攻击的伤害骰上获得+1加值。11级时此加值为+2，21级时次加值为+3。另外，你的攻击无视火焰抗力\n@@\n!! 5级：占火专家 Pyromancy Expert\n@@.indent\n''专家级学派法师特性''\n\nShadows crawl and writhe around you, forming a shifting tapestry of grotesque shapes. These shadows mask your presence and give you an edge when facing down a foe.\n\n''增益：''你在唬骗检定和威吓检定上获得+2加值\n@@\n!! 10级：占火大师 Pyromancy Master\n@@.indent\n''大师级学派法师特性''\n\nYour spells ignite the ground, spreading flames and consuming your enemies even if they are fortunate enough to dodge your attacks.\n\n''增益：''当你使用不创造区域的区域或近程奥术火焰攻击威能时，此攻击的范围成为一个区域，此区域持续到你下一回合结束。在此区域内结束其回合的生物受到等同于你体质调整值的火焰伤害\n@@\n!! 11级：占火行动 Pyromancy Action\n@@.indent\n''高深学派法师典范之道特性''\n\nYour first steps along the path of pyromancy mastery required you to relinquish some control. In doing so, you learned the secrets of fire magic. Now, when you draw upon your reserves of energy and effort, you exercise precise, deadly control of your magic.\n\n''增益：''当你花费一个行动点进行额外动作时，选择一个离你10格内的敌人。本回合内下一次你以随意或遭遇火焰攻击对此敌人造成伤害时，此敌人受到如同你在所有的伤害骰子上掷出最大值的伤害。如果你造成重击，则此额外伤害也取最大值。如果你造成的伤害不需要伤害骰，则你不获得此收益\n@@\n!! 11级：占火遭遇威能 Pyromancy Encounter Power\n@@.indent\n''高深学派法师典范之道特性''\n\nKelwyn's devouring fire has a sinister reputation. It calls forth a sheet of fire similar to burning hands, but those who have survived this spell's fury claim that it is a living thing—a whispering spirit that burned both body and soul. The few pyromancers willing to discuss the spell tell of a compelling voice that sometimes speaks to them, urging them to unleash the spell and wreak havoc regardless of the consequences.\n@@\n{{凯尔温之吞噬火焰术 Kelwyn's Devouring Fire}}\n!! 12级：占火辅助威能 Pyromancy Utility Power\n@@.indent\n''高深学派法师典范之道特性''\n\nIf devouring fire was the first sign of Kelwyn's descent into madness, the fiery form spell he developed marked his slow transformation from a living creature to a being of pure fire. Kelwyn's fiery form shifts its caster from a mortal creature to an elemental being of fire and ash. In this form, waves of heat cascade from you to burn creatures that draw close to you. The more victims you present to it, the deadlier the fire burns.\n@@\n{{凯尔温之烈焰形态 Kelwyn's Fiery Form}}\n!! 20级：占火每日威能 Pyromancy Daily Power\n@@.indent\n''高深学派法师典范之道特性''\n\nThis deadly spell is thought by some to be the (barely) controlled version of the spell which vaporized Kelwyn and ended his dynasty. Kelwyn's final devastation channels such destructive power that even the most powerful pyromancers cannot fully control it. By surrendering to the flame, you unleash vast destructive power.\n@@\n{{凯尔温之终极毁灭 Kelwyn's Final Devastation}}",
+    "fields": {
+      "created": "20220811033218386",
+      "creator": "Leon",
+      "modified": "20221116015031604",
+      "modifier": "Leon",
+      "source": "Dragon"
+    },
+    "wiki": {
+      "transclusions": [
+        "凯尔温之吞噬火焰术 Kelwyn's Devouring Fire",
+        "凯尔温之烈焰形态 Kelwyn's Fiery Form",
+        "凯尔温之终极毁灭 Kelwyn's Final Devastation"
+      ],
+      "links": [],
+      "macros": [],
+      "headings": [
+        "1级：占火学徒 Pyromancy Apprentice",
+        "5级：占火专家 Pyromancy Expert",
+        "10级：占火大师 Pyromancy Master",
+        "11级：占火行动 Pyromancy Action",
+        "11级：占火遭遇威能 Pyromancy Encounter Power",
+        "12级：占火辅助威能 Pyromancy Utility Power",
+        "20级：占火每日威能 Pyromancy Daily Power"
+      ]
+    }
+  }
+]

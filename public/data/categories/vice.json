@@ -1,0 +1,92 @@
+[
+  {
+    "id": "暴怒败德 Vice of Fury",
+    "name": "暴怒败德",
+    "nameEn": "Vice of Fury",
+    "category": "vice",
+    "tags": [
+      "败德"
+    ],
+    "source": "HoS",
+    "sourceText": "@@.indent\nAnger is a common emotion on the battlefield. It's perfectly natural to feel fury when enemies kill a friend or when a traitor betrays you and your companions. Frustration is bound to arise when a foe slips away or an objective remains out of reach. Such rage is hardly a vice.\n\nFury's dark side arises when it occludes thought, when it rules action, and when it harms without thought for the consequences. Blackguards who indulge in their fury run the risk of losing control and striking out at anyone in their path. Guilt and innocence become meaningless concepts to a warrior in fury's throes. Such paladins can work terrible acts when consumed by their passions.\n\nWhen fury is your vice, you might be temperamental and violent. You could erupt at the slightest provocation, resorting to hostility to solve your problems. Or you might make every effort to maintain control when you need to, letting the hound of fury loose only when it is needed. Even then, if pushed too far, you risk exploding. If you aim to keep your fury under control, your biggest fear is hurting someone or something you value.\n\n''阵营：''只要不是守序善良。大多数暴怒黑暗卫士是无阵营的。愤怒将模糊哲学立场并掩盖和平的解决方式\n@@\n!! 1级：败德精神（暴怒） Spirit of Vice (Fury)\n@@.indent\nYour anger increases your strength in battle, giving you a decided edge when striking at your foes. To access this greater strength, you must give into the burgeoning hate.\n\n''增益：''当你对一个敌人有战斗优势时，你在伤害骰上获得+2加值。此加值在你重伤或邻近一个重伤生物时为+4\n@@\n!! 1级：败德随意威能（暴怒） Vice At-Will Power (Fury)\n@@.indent\nThe violence of combat fuels your fury. Your enemies pale before your battle-crazed visage.\n\n''增益：''你获得[[凶蛮打击 Ferocious Strike]]威能\n@@\n!! 7级：进阶暗影护罩（暴怒） Improved Shroud of Shadow (Fury)\n@@.indent\nWhen you draw directly on shadow magic, your fury infuses your attacks.\n\n''增益：''当你使用你的[[暗影护罩 Shroud of Shadow]]时，在你下一回合结束前，你在下一个伤害骰上获得等同于2 + 你魅力调整值的加值。23级时，此加值等同于5 + 你魅力调整值\n@@\n!! 11级：残酷黑暗卫士行动（暴怒） Grim Blackguard's Action (Fury)\n@@.indent\n''残酷黑暗卫士典范之道特性''\n\nYour brutal advance menaces your enemies, filling them with dread.\n\n''增益：''当你花费一个行动点进行额外动作时，你对所有敌人获得战斗优势，直到你下一回合结束\n@@\n!! 11级：败德遭遇威能（暴怒） Vice Encounter Power (Fury)\n@@.indent\n''残酷黑暗卫士典范之道特性''\n\nViolence begets violence. In the right circumstances, it takes little to provoke you. When stirred to respond, you speed to the offending enemy and deliver a punishing strike with little regard for the consequences.\n@@\n{{暴怒之奴 Slave to Fury}}\n!! 12级：败德辅助威能（暴怒） Vice Utility Power (Fury)\n@@.indent\n''残酷黑暗卫士典范之道特性''\n\nYou can raise an icon of your vice for all to see, driving you and your allies to strike enemies with unbounded rage. Enemies understand that to be near this altar is to be the focus of unrelenting ire.\n@@\n{{暴怒祭坛 Altar of Fury}}\n!! 20级：败德每日威能（暴怒） Vice Daily Power (Fury)\n@@.indent\n''残酷黑暗卫士典范之道特性''\n\nYou use your familiarity with your vice to turn an enemy's rage against it. Your strike leaves behind a psychic seed of unreasoning fury that tears at the mind and forces your foe into unreasonable acts of anger.\n@@\n{{失控暴怒 Uncontrolled Fury}}\n!! 22级：败德辅助威能（暴怒） Vice Utility Power (Fury)\n@@.indent\nYou warp your allies with uncontrollable bloodlust, erasing their self-control and making them ruthless warriors for as long as they remain under your influence.\n@@\n{{狂暴杀戮 Rampaging Bloodlust}}",
+    "fields": {
+      "created": "20220831071440173",
+      "creator": "Leon",
+      "modified": "20221116074556466",
+      "modifier": "Leon",
+      "source": "HoS"
+    },
+    "wiki": {
+      "transclusions": [
+        "暴怒之奴 Slave to Fury",
+        "暴怒祭坛 Altar of Fury",
+        "失控暴怒 Uncontrolled Fury",
+        "狂暴杀戮 Rampaging Bloodlust"
+      ],
+      "links": [
+        {
+          "target": "凶蛮打击 Ferocious Strike"
+        },
+        {
+          "target": "暗影护罩 Shroud of Shadow"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：败德精神（暴怒） Spirit of Vice (Fury)",
+        "1级：败德随意威能（暴怒） Vice At-Will Power (Fury)",
+        "7级：进阶暗影护罩（暴怒） Improved Shroud of Shadow (Fury)",
+        "11级：残酷黑暗卫士行动（暴怒） Grim Blackguard's Action (Fury)",
+        "11级：败德遭遇威能（暴怒） Vice Encounter Power (Fury)",
+        "12级：败德辅助威能（暴怒） Vice Utility Power (Fury)",
+        "20级：败德每日威能（暴怒） Vice Daily Power (Fury)",
+        "22级：败德辅助威能（暴怒） Vice Utility Power (Fury)"
+      ]
+    }
+  },
+  {
+    "id": "支配败德 Vice of Domination",
+    "name": "支配败德",
+    "nameEn": "Vice of Domination",
+    "category": "vice",
+    "tags": [
+      "败德"
+    ],
+    "source": "HoS",
+    "sourceText": "@@.indent\nThe world demands order. Chaos is a cancer, undermining civilization's advance, fomenting crimes, sowing discord, and encouraging upheaval. Understanding the world's crying need, you crusade for order at any cost. When necessary, you enforce your will harshly, making examples of the disobedient.\n\nGood and evil are methods, not ends—they can both bring stability. You might attempt to serve the greater good even if your methods can be harsh. To channel your vice, you might seek out the basest threats to stability, such as demons, marauding monsters, and other chaotically minded evildoers. Only evil blackguards give in to true tyranny, destroying the hearts and minds of subjects to make certain they obey every command.\n\nWithin a group, you push for ideas that involve imposing order on the situation most efficiently. You might have little tolerance for disorganization, even if such a state encourages freedom. You support authority, acknowledging the most effective leader of a group you're in even if that individual is not you. However, you expect a leader to handle situations competently or to step down. Dominance is earned, not claimed.\n\n''阵营：''必须无阵营或邪恶。善良会被秩序和权威的问题困扰，而混乱则是无法接受的。\n@@\n!! 1级：败德精神（支配） Spirit of Vice (Domination)\n@@.indent\nYou punish disobedience with overwhelming force. It might cost you battle resilience, but the reward of punishment for your enemies is compensation aplenty.\n\n''增益：''每轮一次，当你具有临时生命值时，你能以一个自由动作在对一个目标进行攻击检定前对你自己造成等同于你魅力调整值的伤害。然后你在对此目标的伤害骰上获得等同于你受到的伤害的加值\n@@\n!! 1级：败德随意威能（支配） Vice At-Will Power (Domination)\n@@.indent\nYou become stronger as you prove yourself better than your opponents.\n\n''增益：''你获得[[支配打击 Dominator's Strike]]威能\n@@\n!! 7级：进阶暗影护罩（支配） Improved Shroud of Shadow (Domination)\n@@.indent\nWhen you draw on shadow for protection, your shroud becomes more substantial, forming a greater barrier against your enemies' attacks.\n\n''增益：''当你使用你的[[暗影护罩 Shroud of Shadow]]时，你获得等同于2 + 你魅力调整值的额外临时生命值。23级时，此额外临时生命值等同于5 + 你魅力调整值\n@@\n!! 11级：残酷黑暗卫士行动（支配） Grim Blackguard's Action (Domination)\n@@.indent\n''残酷黑暗卫士典范之道特性''\n\nYour dictatorial presence creates a subtle coordination among your allies, aiding your attacks.\n\n''增益：''当你花费一个行动点进行额外动作时，你在攻击骰上获得等同于离你2格内盟友数量的威能加值，直到你下一回合结束\n@@\n!! 11级：败德遭遇威能（支配） Vice Encounter Power (Domination)\n@@.indent\n''残酷黑暗卫士典范之道特性''\n\nLittle matters as long as order prospers. You invest your imperious nature into your weapon and release necrotic energy to take what you want by force.\n@@\n{{支配证明 Proof of Domination}}\n!! 12级：败德辅助威能（支配） Vice Utility Power (Domination)\n@@.indent\n''残酷黑暗卫士典范之道特性''\n\nIn raising an icon of your vice, you drive your allies to crush the weak. Your enemies know that any sign of difficulty opens the way to their punishment in the presence of your altar.\n@@\n{{支配祭坛 Altar of Domination}}\n!! 20级：败德每日威能（支配） Vice Daily Power (Domination)\n@@.indent\n''残酷黑暗卫士典范之道特性''\n\nYou can awaken a killing dread in your opponent. This mortal fear magnifies apparent threats and confuses your enemy as it flails about looking for escape. If it cannot escape your presence, it is doomed to madness and possibly death.\n@@\n{{致死恐惧 Mortal Dread}}\n!! 22级：败德辅助威能（支配） Vice Utility Power (Domination)\n@@.indent\nThe light created by this power encourages your allies to abide while protecting you. In truth, the shadow within you feeds from your companions to satisfy your insatiable appetite for power.\n@@\n{{暗黑恩赐 Dark Grace}}",
+    "fields": {
+      "created": "20220831070929407",
+      "creator": "Leon",
+      "modified": "20221116073923548",
+      "modifier": "Leon",
+      "source": "HoS"
+    },
+    "wiki": {
+      "transclusions": [
+        "支配证明 Proof of Domination",
+        "支配祭坛 Altar of Domination",
+        "致死恐惧 Mortal Dread",
+        "暗黑恩赐 Dark Grace"
+      ],
+      "links": [
+        {
+          "target": "支配打击 Dominator's Strike"
+        },
+        {
+          "target": "暗影护罩 Shroud of Shadow"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：败德精神（支配） Spirit of Vice (Domination)",
+        "1级：败德随意威能（支配） Vice At-Will Power (Domination)",
+        "7级：进阶暗影护罩（支配） Improved Shroud of Shadow (Domination)",
+        "11级：残酷黑暗卫士行动（支配） Grim Blackguard's Action (Domination)",
+        "11级：败德遭遇威能（支配） Vice Encounter Power (Domination)",
+        "12级：败德辅助威能（支配） Vice Utility Power (Domination)",
+        "20级：败德每日威能（支配） Vice Daily Power (Domination)",
+        "22级：败德辅助威能（支配） Vice Utility Power (Domination)"
+      ]
+    }
+  }
+]

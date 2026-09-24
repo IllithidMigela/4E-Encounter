@@ -1,0 +1,92 @@
+[
+  {
+    "id": "牺牲美德 Virtue of Sacrifice",
+    "name": "牺牲美德",
+    "nameEn": "Virtue of Sacrifice",
+    "category": "virtue",
+    "tags": [
+      "美德"
+    ],
+    "source": "HoFK",
+    "sourceText": "@@.indent\nA cavalier of sacrifice must be ready to give up anything—money, status, power, or life itself—to defend those too weak to shield themselves from evil. Cavaliers of sacrifice are renowned because of the hardships they endure for the good of others. You sleep in a stable while your allies rest in an inn, to save a few coins for the poor. You wear little more than simple, peasant's garb when not in armor and are an ascetic devoted to your cause, willing to endure any ill or pain to prevent others from suffering it.\n\nEven though the virtue of sacrifice carries a heavy cost, you must temper your actions with humility. You give up so much, but that sacrifice does not make you more noble than others. Pride is your enemy, because it threatens to lead you to arrogance and ultimately disdain for those you protect. Cavaliers of sacrifice who fall to evil become even more villainous due to the great distance they tumble.\n\n''阵营：''必须守序善良。牺牲美德对其信徒要求很多。只有最高尚的圣骑兵才会信奉它。\n@@\n!! 1级：牺牲精神 Spirit of Sacrifice\n@@.indent\nWhen you draw on your inner reserves, you can call upon the divine power of your virtue to instead grant that strength to an injured ally.\n\n''增益：''你获得一个额外回复力。此外，你能以一个次要动作使用你的回气来医疗离你5格内的你选择的一个盟友。如果你这么做，那么你不会因使用回气而获得收益，但是该盟友恢复等同于他回复力值的生命值。\n@@\n!! 1级：美德随意威能 Virtue At-Will Power\n@@.indent\nIn the hands of a cavalier of sacrifice, a weapon is more than a tool of destruction. It is a symbol of hope, because each strike you make against hope’s enemies shows your allies the path to victory.\n\n''增益：''你获得[[希望打击 Strike of Hope]]威能\n@@\n!! 7级：进阶正义之盾 Improved Righteous Shield\n@@.indent\nThe stronger you become in your conviction, the easier it becomes to protect your allies, which only further strengthens your conviction.\n\n''增益：''当你使用你的[[正义之盾 Righteous Shield]]时，你受到的伤害减少10点。23级时，你受到的伤害减少20点。\n@@\n!! 11级：牺牲行动 Sacrificial Action\n@@.indent\n''英勇圣骑兵典范之道特性''\n\nWhen you reach for your deepest reserves of strength and will to push beyond normal limits, the power of your virtue flows freely through you. At those times, you can expend some of your vitality to let that power flow over your nearby allies, healing their wounds.\n\n''增益：''当你花费一个行动点进行额外动作时，你能以一个自由动作同时花费一个回复力。这么做你不会恢复生命值，但离你5格内的每个盟友恢复等同于你的等级的生命值\n@@\n!! 11级：牺牲信标 Beacon of Sacrifice\n@@.indent\n''英勇圣骑兵典范之道特性''\n\nWhile the virtue of sacrifice requires you to focus on aiding those weaker than you, this power allows you to harm your enemies while following your virtue. You create a focused burst of radiant energy that sears your foes. As part of the power, you can also sacrifice some of your life energy to protect your allies.\n@@\n{{牺牲信标 Beacon of Sacrifice}}\n!! 12级：牺牲旗帜 Banner of Sacrifice\n@@.indent\n''英勇圣骑兵典范之道特性''\n\nThe banner of sacrifice is a sign of hope in the chaotic battlefield that draws your allies to it. As you stand and fight, the divine magic of this power transforms the pain of your wounds into soothing, healing magic for your allies.\n@@\n{{牺牲旗帜 Banner of Sacrifice}}\n!! 20级：牺牲责任 Burden of Sacrifice\n@@.indent\n''英勇圣骑兵典范之道特性''\n\nPride and arrogance are both potential pitfalls for cavaliers of sacrifice, because this virtue carries a great demand that only a few can shoulder. You demonstrate the high price expected of you by giving your own vitality to restore the health of your allies.\n@@\n{{牺牲责任 Burden of Sacrifice}}\n!! 22级：共享牺牲 Shared Sacrifice\n@@.indent\nThe virtue of sacrifice, when shared among your allies, allows you to ensure that each of your foes' attacks harms only the strongest among you. You call upon divine favor, and a golden aura surrounds you, creating a shared pool of strength and vitality that your comrades can draw upon.\n@@\n{{共享牺牲 Shared Sacrifice}}",
+    "fields": {
+      "created": "20220826083807848",
+      "creator": "Leon",
+      "modified": "20221116055503079",
+      "modifier": "Leon",
+      "source": "HoFK"
+    },
+    "wiki": {
+      "transclusions": [
+        "牺牲信标 Beacon of Sacrifice",
+        "牺牲旗帜 Banner of Sacrifice",
+        "牺牲责任 Burden of Sacrifice",
+        "共享牺牲 Shared Sacrifice"
+      ],
+      "links": [
+        {
+          "target": "希望打击 Strike of Hope"
+        },
+        {
+          "target": "正义之盾 Righteous Shield"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：牺牲精神 Spirit of Sacrifice",
+        "1级：美德随意威能 Virtue At-Will Power",
+        "7级：进阶正义之盾 Improved Righteous Shield",
+        "11级：牺牲行动 Sacrificial Action",
+        "11级：牺牲信标 Beacon of Sacrifice",
+        "12级：牺牲旗帜 Banner of Sacrifice",
+        "20级：牺牲责任 Burden of Sacrifice",
+        "22级：共享牺牲 Shared Sacrifice"
+      ]
+    }
+  },
+  {
+    "id": "英勇美德 Virtue of Valor",
+    "name": "英勇美德",
+    "nameEn": "Virtue of Valor",
+    "category": "virtue",
+    "tags": [
+      "美德"
+    ],
+    "source": "HoFK",
+    "sourceText": "@@.indent\nOn the battlefield, you are the pinnacle of bravery. You stand resolute against any foe, from a seemingly endless wave of kobolds to a mountain-shaking titan. Without valor, the other virtues lose meaning and impact. To stand against a daunting foe or to hold tight to the exacting standards of the order of cavaliers— both of these tasks require faultless valor. You stand at the forefront of a battle, taking the vanguard position to both strike at your foes and shield your allies from your enemies' most ferocious attacks. In this manner, your adherence to valor ensures that your bravery serves as a stirring example.\n\nValor must be tempered with wisdom. The valorous cavalier does not fight for the sake of fighting, but for the just cause. Valor turns to bloodlust when a cavalier fails to see that skill at arms is only one solution. Tales abound of valorous cavaliers who have fallen to evil. They didn't abandon their virtue, but rather lost the wisdom needed to wield it for good.\n\n''阵营：''守序善良，善良或无阵营。虽然英勇的理想要求勇敢作战，但是它要求其信徒不攻击弱者和无辜\n@@\n!! 1级：英勇精神 Spirit of Valor\n@@.indent\nAs an adherent of valor, you are always ready to take up the cause of justice in battle. Your blade flies from its sheath at the first sign of combat, while your superior endurance allows you to remain in the fight long after others have faltered.\n\n''增益：''你在先攻检定上获得+4威能加值，且你的回复力值增加2点\n@@\n!! 1级：美德随意威能 Virtue At-Will Power\n@@.indent\nYou call upon the power of your virtue to hold your enemy accountable for the injuries it seeks to inflict on your allies. Your weapon shines with radiant energy, which flashes as you strike.\n\n''增益：''你获得[[报复打击 Vengeful Strike]]威能\n@@\n!! 7级：进阶正义之盾 Improved Righteous Shield\n@@.indent\nWhen you see your allies attacked, you let the divine energy of your virtue course through you so that you can deliver vengeance upon your foes once you have protected your allies from harm.\n\n''增益：''当你使用你的[[正义之盾 Righteous Shield]]时，在你下一回合结束前，你同时在下一次伤害骰上获得等同于2 + 你魅力调整值的加值。23级时，此加值等同于5 + 你魅力调整值\n@@\n!! 11级：勇武行动 Valorous Action\n@@.indent\n''英勇圣骑兵典范之道特性''\n\nYou live to avenge the innocent. You accept that villains and monsters will rain blows upon you, but their attacks against your allies only heighten your wrath.\n\n''增益：''当你花费一个行动点进行额外动作时，你同时在攻击骰上获得+2威能加值直到你下一回合结束。如果当你花费行动点时离你5格内有至少1个重伤盟友，则此加值为+4\n@@\n!! 11级：英勇信标 Beacon of Valor\n@@.indent\n''英勇圣骑兵典范之道特性''\n\nAs you embody the power of your virtue, you inspire your allies to fight harder. At the same time, your valorous display terrifies your foes. Frozen in place with panic, they cannot flee the coming storm of your allies' attacks.\n@@\n{{英勇信标 Beacon of Valor}}\n!! 12级：英勇旗帜 Banner of Valor\n@@.indent\n''英勇圣骑兵典范之道特性''\n\nMany battles have turned at the foot of this banner, because warriors who might otherwise have fled the battle find the willpower to carry on. Those who stand and fight under the banner's divine glow gain renewed strength and purpose.\n@@\n{{英勇旗帜 Banner of Valor}}\n!! 20级：英勇责任 Burden of Valor\n@@.indent\n''英勇圣骑兵典范之道特性''\n\nDrawing on the power of your virtue, you force an opponent to fight you. Your divine magic stirs its bravery, causing it to focus its attacks on no one but you.\n@@\n{{英勇责任 Burden of Valor}}\n!! 22级：共享英勇 Shared Valor\n@@.indent\nAs battle erupts, you draw on the might of your convictions, filling yourself and your allies with courage. You then all magically leap forward to face your foes.\n@@\n{{共享英勇 Shared Valor}}",
+    "fields": {
+      "created": "20220826085315798",
+      "creator": "Leon",
+      "modified": "20221116060015695",
+      "modifier": "Leon",
+      "source": "HoFK"
+    },
+    "wiki": {
+      "transclusions": [
+        "英勇信标 Beacon of Valor",
+        "英勇旗帜 Banner of Valor",
+        "英勇责任 Burden of Valor",
+        "共享英勇 Shared Valor"
+      ],
+      "links": [
+        {
+          "target": "报复打击 Vengeful Strike"
+        },
+        {
+          "target": "正义之盾 Righteous Shield"
+        }
+      ],
+      "macros": [],
+      "headings": [
+        "1级：英勇精神 Spirit of Valor",
+        "1级：美德随意威能 Virtue At-Will Power",
+        "7级：进阶正义之盾 Improved Righteous Shield",
+        "11级：勇武行动 Valorous Action",
+        "11级：英勇信标 Beacon of Valor",
+        "12级：英勇旗帜 Banner of Valor",
+        "20级：英勇责任 Burden of Valor",
+        "22级：共享英勇 Shared Valor"
+      ]
+    }
+  }
+]

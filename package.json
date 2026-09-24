@@ -1,0 +1,40 @@
+{
+  "name": "dnd4e-encounter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "D&D 4E 中文社区遭遇战模拟器（DM 工具型，与车卡器并行）",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/copy-data.mjs && node scripts/import-creatures.mjs && node scripts/build-rules.mjs && node scripts/clean-dist.mjs && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "copy-data": "node scripts/copy-data.mjs",
+    "4ebuild:sync": "node scripts/sync-4ebuild.mjs",
+    "rules:build": "node scripts/build-rules.mjs",
+    "rules:query": "node scripts/query-rules.mjs",
+    "creatures:build": "node scripts/build-creatures.mjs",
+    "creatures:check": "node scripts/build-creatures.mjs",
+    "creatures:import": "node scripts/import-creatures.mjs",
+    "creatures:class": "python scripts/build-creature-class.py \"D:/01跑团/DND跑团/DND-4E/【4】工程文件/4E遭遇模拟器/怪物数据/数据/DnD4E-怪物手册1~3合订本（六巫翻译-灵霜整理）.xlsx\" public/data/creature-class.json"
+  },
+  "dependencies": {
+    "@lit/react": "^1.0.7",
+    "@material/material-color-utilities": "^0.3.0",
+    "@material/web": "^2.5.0",
+    "html-to-image": "^1.11.13",
+    "jspdf": "^4.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-easy-crop": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5",
+    "vitest": "^4.1.11"
+  }
+}
